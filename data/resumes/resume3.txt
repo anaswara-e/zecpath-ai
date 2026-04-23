@@ -1,0 +1,5 @@
+Name: Arjun Nair
+Email: arjun@gmail.com
+Skills: Java, Spring Boot, MySQL
+Experience: 4 years at Wipro as Backend Developer
+Education: B.Tech in Computer Science
