@@ -1,0 +1,19 @@
+{
+  "name": "string",
+  "email": "string",
+  "skills": ["string"],
+  "experience": [
+    {
+      "company": "string",
+      "role": "string",
+      "years": "number"
+    }
+  ],
+  "education": [
+    {
+      "degree": "string",
+      "institution": "string"
+    }
+  ],
+  "certifications": ["string"]
+}

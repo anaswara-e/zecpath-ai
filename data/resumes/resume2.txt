@@ -1,0 +1,5 @@
+Name: Anjali Verma
+Email: anjali@gmail.com
+Skills: React, JavaScript, HTML, CSS
+Experience: 3 years at TCS as Frontend Developer
+Education: B.Tech in Information Technology

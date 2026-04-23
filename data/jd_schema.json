@@ -1,0 +1,8 @@
+{
+  "job_title": "string",
+  "required_skills": ["string"],
+  "experience_required": "number",
+  "education_required": "string",
+  "location": "string",
+  "job_type": "string"
+}

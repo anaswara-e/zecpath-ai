@@ -1,0 +1,19 @@
+{
+  "name": "Candidate A",
+  "email": "candidate@example.com",
+  "skills": ["Python", "SQL"],
+  "experience": [
+    {
+      "company": "Infosys",
+      "role": "Developer",
+      "years": 2
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "XYZ University"
+    }
+  ],
+  "certifications": []
+}
