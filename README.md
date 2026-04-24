@@ -42,6 +42,35 @@ and job profiles, along with a sample structured resume for AI processing.
 
 ---
 
+## Day 5 – Resume Text Extraction Engine
+
+In this phase, I built a resume parsing engine that converts resume files into clean text for AI processing.
+
+### What was implemented:
+
+* Extracted text from PDF, DOCX, and TXT files
+* Cleaned and normalized resume text
+* Removed unwanted symbols and formatting issues
+* Converted text into a consistent lowercase format
+* Saved cleaned output into structured files
+
+### Files Created:
+
+* parsers/resume_parser.py
+* tests/test_parser.py
+
+### Output:
+
+* Cleaned resumes stored in → data/cleaned/
+
+### Key Functionality:
+
+* Multi-format support (.pdf, .docx, .txt)
+* Automated test execution using pytest
+* Structured output for further AI processing
+
+---
+
 ## Project Structure
 
 ```
@@ -51,14 +80,18 @@ zecpath-ai/
  ├── interview_ai/
  ├── scoring/
  ├── utils/
+ ├── parsers/
+ │    └── resume_parser.py
  ├── data/
  │    ├── resumes/
  │    ├── job_descriptions/
  │    ├── structured/
+ │    ├── cleaned/
  │    ├── resume_schema.json
  │    ├── jd_schema.json
  │    ├── data_entities.md
  ├── tests/
+ │    └── test_parser.py
  ├── main.py
  ├── config.py
  └── README.md
