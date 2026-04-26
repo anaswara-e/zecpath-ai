@@ -1,0 +1,20 @@
+Job Summary
+An Automotive Design Engineer develops and designs vehicle components and systems,
+ensuring performance, safety, and compliance with automotive standards.
+Key Responsibilities
+• Design automotive components (chassis, engine parts, body systems)
+• Develop CAD models and perform simulations
+• Conduct testing and validation of vehicle systems
+• Collaborate with manufacturing and testing teams
+• Ensure compliance with automotive regulations and safety standards
+• Optimize designs for performance, cost, and efficiency
+• Support prototype development and testing
+
+Required Skills
+• CAD tools (CATIA, Creo, NX)
+• Knowledge of automotive systems and standards
+• Basics of CAE (FEA/CFD)
+• Understanding of materials and manufacturing
+Qualifications
+• B.E./B.Tech in Mechanical/Automotive Engineering
+• 3–8 years experience

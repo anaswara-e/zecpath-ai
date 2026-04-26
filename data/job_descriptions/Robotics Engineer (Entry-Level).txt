@@ -1,0 +1,22 @@
+Job Summary
+A Robotics Engineer is responsible for developing, programming, and maintaining robotic
+systems used in manufacturing, assembly, and automation applications.
+Key Responsibilities
+• Program and operate industrial robots (welding, assembly, pick-and-place)
+
+• Assist in robot integration with production lines
+• Work with robotic arms, sensors, and vision systems
+• Troubleshoot robotic system issues
+• Support testing and validation of robotic applications
+• Collaborate with automation and production teams
+• Maintain robot programs and documentation
+• Optimize robotic processes for efficiency and accuracy
+Required Skills
+• Basic knowledge of robotics and automation systems
+• Programming skills (Python, C++, or robot-specific languages)
+• Understanding of kinematics and control systems
+• Familiarity with robotic platforms (ABB, FANUC, KUKA)
+• Problem-solving and analytical thinking
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics / Robotics Engineering
+• 0–2 years of experience

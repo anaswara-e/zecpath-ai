@@ -1,0 +1,21 @@
+Job Summary
+An Additive Manufacturing Engineer specializes in designing and producing components
+using 3D printing technologies, focusing on rapid prototyping, customization, and advanced
+manufacturing techniques.
+Key Responsibilities
+• Design parts for additive manufacturing (DfAM)
+• Operate and maintain 3D printing machines
+• Select appropriate materials and printing methods
+• Optimize designs for strength, weight, and cost
+• Conduct post-processing and quality checks
+• Collaborate with design and production teams
+• Research and implement new AM technologies
+Required Skills
+• Knowledge of 3D printing technologies (FDM, SLS, SLA)
+
+• CAD tools and design optimization
+• Materials science and manufacturing processes
+• Problem-solving and innovation
+Qualifications
+• B.E./B.Tech in Mechanical Engineering
+• 2–6 years of experience

@@ -1,0 +1,22 @@
+Job Summary
+A CNC Programmer is responsible for creating, optimizing, and maintaining CNC programs
+used in machining operations such as milling, turning, and drilling. The role ensures
+precision, efficiency, and quality in manufactured components.
+Key Responsibilities
+• Develop CNC programs using G-code/M-code for machining operations
+• Interpret engineering drawings, CAD models, and technical specifications
+• Select appropriate cutting tools, speeds, and feeds
+• Set up CNC machines and support operators during production
+• Optimize machining processes to reduce cycle time and improve quality
+• Troubleshoot machining issues and modify programs as needed
+• Ensure compliance with quality standards and tolerances
+• Maintain program documentation and revision control
+Required Skills
+• Strong knowledge of CNC machining (milling, turning)
+• Proficiency in CAM software (Mastercam, Fusion 360, NX CAM)
+• Understanding of GD&T and engineering drawings
+• Knowledge of cutting tools and materials
+• Problem-solving and attention to detail
+Qualifications
+• Diploma / B.E. in Mechanical Engineering or Tool Engineering
+• 2–6 years of experience  

@@ -1,0 +1,21 @@
+Job Summary
+A Simulation Engineer performs advanced engineering analysis using tools like Finite
+Element Analysis (FEA) and Computational Fluid Dynamics (CFD) to validate and optimize
+designs.
+Key Responsibilities
+• Perform structural, thermal, and fluid simulations
+• Develop and validate simulation models
+• Analyze stress, vibration, heat transfer, and fluid flow
+• Optimize designs based on simulation results
+• Collaborate with design teams to improve product performance
+• Prepare simulation reports and documentation
+• Ensure accuracy and validation of simulation results
+Required Skills
+
+• Expertise in FEA/CFD tools (ANSYS, Abaqus, Fluent, HyperMesh)
+• Strong understanding of mechanics, thermodynamics, and fluid mechanics
+• Data analysis and interpretation skills
+• Programming (Python, MATLAB) – added advantage
+Qualifications
+• B.E./B.Tech or M.Tech in Mechanical Engineering
+• 3–6 years experience

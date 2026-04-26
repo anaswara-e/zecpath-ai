@@ -1,0 +1,21 @@
+Job Summary
+A Quality Analyst focuses on analyzing quality data, identifying trends, and driving
+improvements using statistical tools and performance metrics.
+Key Responsibilities
+• Collect and analyze quality data from production processes
+• Identify trends, defects, and areas for improvement
+• Generate quality reports and dashboards
+• Support process improvement initiatives using data insights
+• Use statistical tools for quality analysis (SPC, Six Sigma tools)
+• Collaborate with QA, QC, and production teams
+• Monitor key performance indicators (KPIs)
+• Ensure compliance with quality standards
+
+Required Skills
+• Strong data analysis and statistical skills
+• Knowledge of quality tools (SPC, Six Sigma basics)
+• Proficiency in Excel, Minitab, or similar tools
+• Attention to detail and analytical thinking
+Qualifications
+• B.E./B.Tech in Mechanical / Industrial Engineering
+• 3–6 years of experience

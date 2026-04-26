@@ -1,0 +1,19 @@
+Job Summary
+An ADAS Engineer works on advanced vehicle safety and automation systems such as
+autonomous driving, collision avoidance, and driver assistance technologies.
+Key Responsibilities
+• Develop and test ADAS features (lane assist, adaptive cruise control, etc.)
+• Work with sensors (camera, radar, LiDAR)
+• Integrate software and hardware systems
+• Perform system validation and testing
+• Analyze real-world driving data
+• Ensure compliance with safety standards
+Required Skills
+• Knowledge of embedded systems and automotive electronics
+• Programming (Python, C++, MATLAB)
+• Understanding of sensors and control systems
+• Data analysis and AI basics (preferred)
+
+Qualifications
+• B.E./B.Tech in Mechanical / Electronics / Mechatronics
+• 2–6 years of experience

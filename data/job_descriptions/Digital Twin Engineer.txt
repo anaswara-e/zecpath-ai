@@ -1,0 +1,20 @@
+Job Summary
+A Digital Twin Engineer creates virtual replicas of physical systems (machines, plants, or
+products) to simulate, monitor, and optimize real-world performance in real-time.
+Key Responsibilities
+• Develop digital twin models of machines and systems
+• Integrate IoT data for real-time monitoring
+• Simulate system behavior and predict failures
+• Optimize performance using virtual testing
+• Collaborate with design, operations, and IT teams
+• Use simulation tools and data analytics platforms
+• Support decision-making using digital insights
+Required Skills
+• Simulation tools (ANSYS, Siemens NX, MATLAB)
+• IoT integration and data analytics
+• Knowledge of mechanical systems and modeling
+• Programming (Python, C++)
+• Systems thinking
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics Engineering
+• 3–7 years of experience

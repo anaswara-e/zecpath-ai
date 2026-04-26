@@ -70,7 +70,15 @@ In this phase, I built a resume parsing engine that converts resume files into c
 * Structured output for further AI processing
 
 ---
+## Day 6 – Job Description Parsing
 
+- Built JD parser for Mechanical Engineering roles
+- Processed 100+ job description files automatically
+- Extracted role, skills, experience, and education
+- Converted all JDs into structured JSON format
+
+
+---
 ## Project Structure
 
 ```

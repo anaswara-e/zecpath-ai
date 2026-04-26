@@ -1,0 +1,18 @@
+Job Summary
+A CAE Engineer performs simulations and analyses to validate and optimize automotive
+designs using tools like FEA and CFD.
+Key Responsibilities
+• Perform structural, thermal, and fluid simulations
+• Develop and validate simulation models
+• Analyze stress, fatigue, crash, and durability
+• Optimize designs based on simulation results
+• Collaborate with design teams for improvements
+• Prepare simulation reports and documentation
+Required Skills
+• Expertise in CAE tools (ANSYS, Abaqus, HyperMesh)
+• Strong knowledge of mechanics and materials
+• Data analysis and interpretation
+• Problem-solving skills
+Qualifications
+• B.E./B.Tech or M.Tech in Mechanical Engineering
+• 3–7 years of experience

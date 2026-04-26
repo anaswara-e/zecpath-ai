@@ -1,0 +1,20 @@
+Job Summary
+An NVH Engineer specializes in analyzing and reducing noise, vibration, and harshness in
+vehicles to improve comfort, durability, and performance.
+Key Responsibilities
+• Conduct NVH testing and analysis on vehicle components
+• Identify sources of noise and vibration
+• Perform modal and frequency analysis
+• Recommend design changes to reduce NVH issues
+• Use simulation tools for NVH prediction
+• Collaborate with design and testing teams
+• Validate improvements through testing
+Required Skills
+• Knowledge of vibration and acoustics
+• Experience with NVH tools (LMS, HyperWorks, ANSYS)
+• Strong analytical skills
+• Understanding of vehicle systems
+Qualifications
+• B.E./B.Tech or M.Tech in Mechanical Engineering
+
+• 3–7 years of experience

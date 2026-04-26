@@ -1,0 +1,24 @@
+Job Summary
+A Predictive Maintenance Engineer uses data, sensors, and advanced analytics to predict
+equipment failures before they occur. The role focuses on minimizing downtime, extending
+asset life, and optimizing maintenance strategies using condition-based monitoring and
+digital tools.
+Key Responsibilities
+• Develop and implement predictive maintenance strategies for critical assets
+• Analyze equipment data (vibration, temperature, pressure, oil condition, etc.)
+• Use IoT sensors and monitoring systems to track equipment health
+• Identify early signs of failure and recommend corrective actions
+• Integrate predictive maintenance tools with CMMS/ERP systems
+• Collaborate with maintenance and reliability teams
+• Build predictive models using data analytics and machine learning (if applicable)
+• Generate reports and dashboards for asset performance and failure prediction
+• Optimize maintenance schedules based on real-time condition data
+Required Skills
+• Knowledge of predictive maintenance techniques and tools
+• Experience with condition monitoring systems and IoT platforms
+• Data analysis and interpretation (Excel, Python – added advantage)
+• Understanding of mechanical systems and failure modes
+• Familiarity with CMMS/ERP systems
+Qualifications
+• B.E./B.Tech in Mechanical Engineering
+• 4–8 years of experience

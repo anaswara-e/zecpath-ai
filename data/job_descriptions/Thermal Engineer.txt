@@ -1,0 +1,21 @@
+Job Summary
+A Thermal Engineer is responsible for designing, analyzing, and optimizing thermal systems
+involving heat transfer, energy conversion, and temperature control in applications such as
+power plants, engines, and industrial processes.
+Key Responsibilities
+• Design and analyze thermal systems (boilers, heat exchangers, cooling systems)
+• Perform heat transfer and thermodynamic calculations
+• Conduct thermal simulations and performance analysis
+• Optimize system efficiency and reduce energy losses
+• Support design and operation of power generation systems
+• Collaborate with design, production, and maintenance teams
+• Identify and resolve thermal performance issues
+• Prepare technical reports and documentation
+Required Skills
+• Strong knowledge of thermodynamics and heat transfer
+• Experience with simulation tools (ANSYS, MATLAB, CFD tools)
+• Analytical and problem-solving skills
+• Understanding of energy systems and power plants
+Qualifications
+• B.E./B.Tech or M.Tech in Mechanical Engineering
+• 3–7 years of experience

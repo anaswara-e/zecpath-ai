@@ -1,0 +1,24 @@
+Job Summary
+A Mechatronics Engineer designs and develops integrated systems that combine mechanical,
+electrical, and software components. The role focuses on building smart machines, automated
+systems, and robotics solutions for industrial and commercial applications.
+Key Responsibilities
+• Design and develop mechatronic systems combining mechanical, electrical, and
+control elements
+• Integrate sensors, actuators, PLCs, and embedded systems
+• Develop and test automated machinery and robotic systems
+• Collaborate with mechanical, electrical, and software teams
+• Troubleshoot and optimize system performance
+• Support system installation, testing, and commissioning
+• Develop technical documentation and system specifications
+• Improve system efficiency, reliability, and performance
+Required Skills
+
+• Strong knowledge of mechanical, electrical, and control systems
+• Experience with PLC programming and embedded systems
+• Understanding of robotics and automation systems
+• Programming skills (Python, C/C++, MATLAB)
+• Problem-solving and system integration skills
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics / Electronics Engineering
+• 3–7 years of experience

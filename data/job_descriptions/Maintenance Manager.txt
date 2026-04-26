@@ -1,0 +1,27 @@
+Job Summary
+A Maintenance Manager is responsible for overseeing all maintenance activities within a
+plant or facility, ensuring maximum equipment uptime, efficient resource utilization, and
+compliance with safety and regulatory standards.
+Key Responsibilities
+• Plan, organize, and manage preventive, predictive, and corrective maintenance
+activities
+• Ensure high equipment availability and minimal downtime
+• Lead and supervise maintenance teams (engineers, technicians, planners)
+• Develop and implement maintenance strategies and schedules
+• Monitor maintenance KPIs such as MTBF, MTTR, and OEE
+• Coordinate with production, quality, and engineering teams
+• Manage maintenance budgets, costs, and spare parts inventory
+• Ensure compliance with safety, health, and environmental standards
+• Drive continuous improvement and reliability initiatives
+• Oversee installation, commissioning, and upgrades of equipment
+Required Skills
+• Strong knowledge of maintenance and reliability practices
+• Leadership and team management
+• Budgeting and cost control
+• Problem-solving and decision-making
+• Familiarity with CMMS/ERP systems (SAP PM)
+• Knowledge of predictive maintenance technologies
+
+Qualifications
+• B.E./B.Tech in Mechanical Engineering
+• 8–12 years of experience

@@ -1,0 +1,22 @@
+Job Summary
+A Pipeline Engineer is responsible for designing, analyzing, and maintaining pipelines used
+for transporting oil, gas, water, or chemicals. The role ensures safe, efficient, and reliable
+fluid transport systems.
+
+Key Responsibilities
+• Design pipeline systems and layouts
+• Perform stress analysis and fluid flow calculations
+• Ensure compliance with industry standards and safety regulations
+• Monitor pipeline performance and integrity
+• Conduct risk assessments and failure analysis
+• Support installation, testing, and commissioning of pipelines
+• Collaborate with civil, mechanical, and safety teams
+• Prepare technical documentation and reports
+Required Skills
+• Knowledge of fluid mechanics and pipeline design
+• Familiarity with pipeline standards (ASME, API)
+• Experience with simulation and design tools
+• Risk assessment and problem-solving skills
+Qualifications
+• B.E./B.Tech in Mechanical Engineering
+• 3–7 years of experience

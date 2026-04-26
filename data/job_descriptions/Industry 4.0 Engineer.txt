@@ -1,0 +1,21 @@
+Job Summary
+An Industry 4.0 Engineer drives digital transformation in manufacturing by implementing
+smart technologies such as IoT, automation, data analytics, and cyber-physical systems.
+Key Responsibilities
+
+• Implement smart manufacturing solutions and IoT systems
+• Integrate machines with digital platforms (IIoT)
+• Analyze production data for optimization
+• Develop connected factory systems
+• Collaborate with IT, automation, and production teams
+• Improve efficiency using real-time monitoring
+• Support digital transformation initiatives
+Required Skills
+• Knowledge of Industry 4.0 technologies (IoT, AI, automation)
+• Data analytics and system integration
+• Programming and networking basics
+• Understanding of manufacturing systems
+• Problem-solving and innovation mindset
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics Engineering
+• 3–7 years of experience

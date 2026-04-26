@@ -1,0 +1,21 @@
+Job Summary
+A Control Systems Engineer designs, develops, and optimizes control systems used in
+automation, robotics, and industrial processes to ensure stable and efficient system operation.
+Key Responsibilities
+• Design and develop control algorithms and systems
+• Work with PLC, SCADA, and DCS systems
+• Model and simulate control systems using tools like MATLAB/Simulink
+• Tune controllers (PID, advanced control techniques)
+• Integrate control systems with mechanical and electrical components
+• Monitor system performance and implement improvements
+• Troubleshoot and resolve control system issues
+• Ensure system reliability and safety compliance
+Required Skills
+• Strong knowledge of control theory and system dynamics
+• Experience with PLC, SCADA, and industrial automation tools
+• Programming skills (MATLAB, Python, C/C++)
+• Analytical and problem-solving skills
+• Understanding of sensors and instrumentation
+Qualifications
+• B.E./B.Tech in Mechanical / Electrical / Control Systems Engineering
+• 3–7 years of experience

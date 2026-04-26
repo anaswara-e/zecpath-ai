@@ -1,0 +1,21 @@
+Job Summary
+A Solar Design Engineer specializes in designing photovoltaic (PV) systems for residential,
+commercial, and industrial applications, ensuring optimal performance and cost efficiency.
+Key Responsibilities
+• Design solar PV systems (rooftop and ground-mounted)
+• Perform site analysis and solar resource assessment
+• Calculate system size, panel layout, and energy output
+• Select components (solar panels, inverters, mounting systems)
+• Prepare technical drawings and system layouts
+• Ensure compliance with electrical and safety standards
+• Support installation, testing, and commissioning
+
+• Optimize system performance and cost efficiency
+Required Skills
+• Knowledge of solar PV systems and design principles
+• Experience with design tools (PVsyst, AutoCAD, Helioscope)
+• Understanding of electrical integration and grid systems
+• Analytical and problem-solving skills
+Qualifications
+• B.E./B.Tech in Mechanical / Electrical Engineering
+• 3–7 years of experience

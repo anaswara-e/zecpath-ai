@@ -1,0 +1,24 @@
+Job Summary
+An Automation Lead is responsible for leading automation projects, managing teams, and
+ensuring the successful design, implementation, and optimization of automated systems
+across manufacturing or industrial environments.
+Key Responsibilities
+• Lead end-to-end automation projects (design → implementation → commissioning)
+• Manage a team of automation engineers and technicians
+• Design and review automation system architecture (PLC, SCADA, DCS)
+• Ensure integration of automation systems with production processes
+• Oversee installation, testing, and commissioning activities
+• Identify opportunities for automation and process optimization
+• Ensure compliance with safety, quality, and industry standards
+• Coordinate with cross-functional teams (production, maintenance, IT)
+• Manage project timelines, budgets, and resources
+• Drive continuous improvement and digital transformation initiatives
+Required Skills
+• Strong expertise in industrial automation systems (PLC, SCADA, DCS)
+• Leadership and project management skills
+• Knowledge of robotics and control systems
+• Problem-solving and decision-making abilities
+• Familiarity with Industry 4.0 technologies (IoT, smart factories)
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics / Electrical Engineering
+• 8–12 years of experience
