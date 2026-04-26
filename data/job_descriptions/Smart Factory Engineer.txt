@@ -1,0 +1,20 @@
+Job Summary
+A Smart Factory Engineer designs and manages intelligent manufacturing systems that use
+automation, IoT, and data analytics to create highly efficient and connected production
+environments.
+Key Responsibilities
+• Design and implement smart factory systems
+• Integrate automation, robotics, and IoT technologies
+• Monitor and analyze production data in real-time
+• Improve production efficiency and reduce downtime
+• Collaborate with IT and operations teams
+• Implement digital dashboards and control systems
+• Drive continuous improvement initiatives
+Required Skills
+• Knowledge of IoT, automation, and data analytics
+• Experience with manufacturing systems and MES
+• Programming and system integration skills
+• Problem-solving and innovation mindset
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics Engineering
+• 3–7 years of experience

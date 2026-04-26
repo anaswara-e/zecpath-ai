@@ -1,0 +1,24 @@
+Job Summary
+An AI/ML Mechanical Engineer integrates machine learning and artificial intelligence into
+
+mechanical systems to enable predictive analytics, automation, and intelligent decision-
+making in engineering applications.
+
+Key Responsibilities
+• Develop AI/ML models for predictive maintenance, quality prediction, and
+optimization
+• Analyze large datasets from sensors, machines, and production systems
+• Integrate AI solutions into mechanical and industrial processes
+• Collaborate with data scientists and engineering teams
+• Build and deploy machine learning pipelines
+• Improve system efficiency using data-driven insights
+• Work on computer vision and automation applications (if applicable)
+Required Skills
+• Machine learning (supervised, unsupervised learning)
+• Programming (Python, TensorFlow, PyTorch)
+• Data analysis and statistics
+• Knowledge of mechanical systems and IoT data
+• Problem-solving and analytical thinking
+Qualifications
+• B.E./B.Tech in Mechanical Engineering + AI/ML certification
+• 2–6 years of experience

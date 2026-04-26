@@ -1,6 +1,0 @@
-Job Title: MERN Stack Developer
-Skills Required: MongoDB, Express, React, Node.js
-Experience: 2+ years
-Education: B.Tech or equivalent
-Location: Bangalore
-Job Type: Full-time

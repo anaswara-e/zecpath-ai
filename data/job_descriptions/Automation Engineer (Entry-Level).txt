@@ -1,0 +1,23 @@
+Job Summary
+An Automation Engineer is responsible for supporting the design, development, and
+maintenance of automated systems used in manufacturing and industrial processes. The role
+focuses on improving efficiency, reducing manual effort, and ensuring smooth automated
+operations.
+Key Responsibilities
+• Assist in designing and implementing automation systems and processes
+• Support PLC programming and control system development
+• Work with sensors, actuators, and control panels
+• Troubleshoot automation equipment and system issues
+• Collaborate with production and maintenance teams
+• Monitor system performance and suggest improvements
+• Support installation, testing, and commissioning of automation systems
+• Maintain documentation, wiring diagrams, and system reports
+Required Skills
+• Basic knowledge of automation and control systems
+• Familiarity with PLCs (Siemens, Allen-Bradley)
+• Understanding of sensors, actuators, and instrumentation
+• Problem-solving and analytical skills
+• Basic electrical knowledge (added advantage)
+Qualifications
+• B.E./B.Tech in Mechanical / Mechatronics / Electrical Engineering
+• 0–2 years of experience

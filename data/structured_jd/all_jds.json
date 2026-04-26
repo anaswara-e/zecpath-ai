@@ -1,0 +1,1169 @@
+[
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical"
+        ],
+        "experience": "26 years",
+        "education": "btech",
+        "file_name": "ADAS Engineer (Advanced Driver Assistance Systems).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "26 years",
+        "education": "btech",
+        "file_name": "Additive Manufacturing Engineer (3D Printing).txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "design",
+            "catia",
+            "mechanical"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Aerospace Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "ansys",
+            "catia",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Aerospace Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "26 years",
+        "education": "btech",
+        "file_name": "AI ML Mechanical Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Assembly Line Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "manufacturing"
+        ],
+        "experience": "510 years",
+        "education": "btech",
+        "file_name": "Audit & Compliance Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "manufacturing",
+            "maintenance",
+            "production"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Automation Engineer (Entry-Level).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "manufacturing",
+            "maintenance",
+            "production"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Automation Lead.txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "catia",
+            "manufacturing"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Automotive Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "manufacturing",
+            "production",
+            "catia"
+        ],
+        "experience": "26 years",
+        "education": "btech",
+        "file_name": "Automotive Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "autocad",
+            "manufacturing",
+            "production",
+            "catia"
+        ],
+        "experience": "02 years",
+        "education": "diploma",
+        "file_name": "CAD Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "autocad",
+            "solidworks",
+            "mechanical"
+        ],
+        "experience": "26 years",
+        "education": "diploma",
+        "file_name": "CAD Freelancer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "ansys",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "CAE Engineer (Computer-Aided Engineering).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "production",
+            "mechanical"
+        ],
+        "experience": "26 years",
+        "education": "diploma",
+        "file_name": "CNC Programmer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Condition Monitoring Specialist.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "quality control",
+            "mechanical"
+        ],
+        "experience": "1018 years",
+        "education": "btech",
+        "file_name": "Construction Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Control Systems Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "manufacturing",
+            "production",
+            "catia"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "ansys",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Digital Twin Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "autocad",
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "diploma",
+        "file_name": "Draftsman (Mechanical).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Energy Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "thermodynamics",
+            "design",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Engine Development Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "Engineering Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Equipment Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "ansys",
+            "mechanical"
+        ],
+        "experience": "410 years",
+        "education": "btech",
+        "file_name": "FEA CFD Simulation Freelancer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Flight Test Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "autocad",
+            "manufacturing",
+            "maintenance",
+            "production"
+        ],
+        "experience": "01 year",
+        "education": "btech",
+        "file_name": "Graduate Mechanical Engineer (Fresher Role).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical"
+        ],
+        "experience": "1218 years",
+        "education": "btech",
+        "file_name": "Head of Quality.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "autocad",
+            "mechanical"
+        ],
+        "experience": "512 years",
+        "education": "btech",
+        "file_name": "HVAC Consultant.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "thermodynamics",
+            "design",
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "HVAC Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "HVAC Project Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Industrial Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Industry 4.0 Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "autocad",
+            "manufacturing",
+            "catia"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Junior Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Junior Energy Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Lead Mechanical Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Lean Manufacturing Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "thermodynamics",
+            "mechanical",
+            "manufacturing"
+        ],
+        "experience": "not specified",
+        "education": "mtech",
+        "file_name": "Lecturer  Professor (Mechanical Engineering).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Maintenance Engineer (Entry-Level).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Maintenance Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Maintenance Planner.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "Manufacturing Consultant.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "not specified",
+        "education": "btech",
+        "file_name": "Manufacturing Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "26 years",
+        "education": "btech",
+        "file_name": "Marine Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "manufacturing",
+            "catia"
+        ],
+        "experience": "510 years",
+        "education": "btech",
+        "file_name": "Mechanical Design Consultant.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "manufacturing",
+            "catia"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "Mechanical Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Mechatronics Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "manufacturing"
+        ],
+        "experience": "48 years",
+        "education": "btech",
+        "file_name": "Metrology Engineer.txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "manufacturing",
+            "production"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Mold Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "ansys",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "NVH Engineer (Noise, Vibration, Harshness).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Offshore Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "Operation Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "1015 years",
+        "education": "btech",
+        "file_name": "Operations Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Pipeline Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "1015 years",
+        "education": "btech",
+        "file_name": "Plant Head.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "1015 years",
+        "education": "btech",
+        "file_name": "Plant Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "1020 years",
+        "education": "btech",
+        "file_name": "Plant Setup Consultant.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Power Plant Engineer (Entry-Level).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "48 years",
+        "education": "btech",
+        "file_name": "Predictive Maintenance Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Process Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "Product Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production",
+            "mechanical"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "Product Development Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "512 years",
+        "education": "btech",
+        "file_name": "Product Manager (Mechanical Products).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "manufacturing",
+            "maintenance",
+            "production"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Production Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Production Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Project Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "Project Manager (Mechanical).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "thermodynamics",
+            "ansys",
+            "design",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Propulsion Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical",
+            "manufacturing"
+        ],
+        "experience": "not specified",
+        "education": "btech",
+        "file_name": "PSU Engineer (Public Sector Undertakings).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production",
+            "mechanical"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "QA Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "production",
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "diploma",
+        "file_name": "QC Inspector.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "production",
+            "mechanical"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "Quality Analyst.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production",
+            "quality control",
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Quality Engineer (Entry-Level).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production",
+            "quality control",
+            "mechanical"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Quality Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production",
+            "mechanical"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "R&D Engineer (Research & Development).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "R&D Manager (Research & Development).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Reliability Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "production",
+            "mechanical"
+        ],
+        "experience": "1015 years",
+        "education": "btech",
+        "file_name": "Reliability Head.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Renewable Energy Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "not specified",
+        "education": "mtech",
+        "file_name": "Research Scientist (Mechanical Engineering).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "1015 years",
+        "education": "btech",
+        "file_name": "Robotics Architect.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Robotics Engineer (Entry-Level).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "not specified",
+        "education": "btech",
+        "file_name": "Scientist (Defense & Space Organizations).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "manufacturing",
+            "catia"
+        ],
+        "experience": "610 years",
+        "education": "btech",
+        "file_name": "Senior Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "02 years",
+        "education": "btech",
+        "file_name": "Service Engineer.txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "ansys",
+            "autocad",
+            "production",
+            "catia"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Ship Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "maintenance",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "03 years",
+        "education": "btech",
+        "file_name": "Shop Floor Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "thermodynamics",
+            "ansys",
+            "design",
+            "mechanical"
+        ],
+        "experience": "36 years",
+        "education": "btech",
+        "file_name": "Simulation Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical"
+        ],
+        "experience": "26 years",
+        "education": "btech",
+        "file_name": "Site Engineer (Mechanical).txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical"
+        ],
+        "experience": "610 years",
+        "education": "btech",
+        "file_name": "Six Sigma Black Belt.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "production",
+            "mechanical"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Six Sigma Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Smart Factory Engineer.txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "design",
+            "autocad",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Solar Design Engineer.txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "design",
+            "ansys",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Structural Analyst.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "production",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Supplier Quality Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "production",
+            "mechanical"
+        ],
+        "experience": "815 years",
+        "education": "btech",
+        "file_name": "Supply Chain Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Sustainability Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "production",
+            "mechanical"
+        ],
+        "experience": "812 years",
+        "education": "btech",
+        "file_name": "Technical Manager.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "thermodynamics",
+            "mechanical",
+            "ansys",
+            "design",
+            "maintenance",
+            "production"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Thermal Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "solidworks",
+            "mechanical",
+            "design",
+            "manufacturing",
+            "production",
+            "catia"
+        ],
+        "experience": "38 years",
+        "education": "btech",
+        "file_name": "Tool Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "manufacturing",
+            "maintenance",
+            "production"
+        ],
+        "experience": "not specified",
+        "education": "btech",
+        "file_name": "Trainee Engineer (Manufacturing).txt"
+    },
+    {
+        "role": "design engineer",
+        "skills": [
+            "mechanical",
+            "design",
+            "catia",
+            "manufacturing"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Vehicle Design Engineer.txt"
+    },
+    {
+        "role": "mechanical engineer",
+        "skills": [
+            "design",
+            "maintenance",
+            "mechanical"
+        ],
+        "experience": "37 years",
+        "education": "btech",
+        "file_name": "Wind Turbine Engineer.txt"
+    }
+]

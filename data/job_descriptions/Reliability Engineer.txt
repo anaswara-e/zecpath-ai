@@ -1,0 +1,25 @@
+Job Summary
+A Reliability Engineer is responsible for improving equipment reliability, reducing failures,
+and optimizing maintenance strategies using data analysis and engineering techniques. The
+role focuses on maximizing uptime and minimizing operational risks.
+Key Responsibilities
+
+• Analyze equipment performance and identify failure patterns
+• Conduct root cause failure analysis (RCFA) and implement corrective actions
+• Develop and optimize preventive and predictive maintenance strategies
+• Monitor reliability KPIs such as MTBF (Mean Time Between Failures) and MTTR
+(Mean Time To Repair)
+• Implement condition monitoring techniques (vibration analysis, thermography, oil
+analysis)
+• Collaborate with maintenance, production, and engineering teams
+• Recommend design or process improvements for reliability enhancement
+• Maintain reliability data, reports, and documentation
+Required Skills
+• Strong knowledge of reliability engineering principles
+• Experience with maintenance strategies (preventive, predictive, RCM)
+• Data analysis and problem-solving skills
+• Familiarity with condition monitoring tools
+• Knowledge of industrial equipment and systems
+Qualifications
+• B.E./B.Tech in Mechanical Engineering
+• 3–7 years of experience

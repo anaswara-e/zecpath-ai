@@ -1,0 +1,20 @@
+Job Summary
+
+A Structural Analyst evaluates the strength, durability, and safety of aircraft structures using
+advanced simulation and analysis techniques.
+Key Responsibilities
+• Perform structural analysis using FEA tools
+• Analyze stress, fatigue, and failure modes of components
+• Validate designs against safety and performance requirements
+• Conduct load and strength calculations
+• Collaborate with design engineers for structural optimization
+• Prepare analysis reports and documentation
+• Support certification and testing activities
+Required Skills
+• Expertise in FEA tools (ANSYS, Abaqus, HyperMesh)
+• Strong knowledge of mechanics of materials
+• Analytical and data interpretation skills
+• Attention to detail
+Qualifications
+• B.E./B.Tech or M.Tech in Mechanical/Aerospace Engineering
+• 3–7 years of experience

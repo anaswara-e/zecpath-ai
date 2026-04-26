@@ -1,0 +1,25 @@
+Job Summary
+A Robotics Architect is a senior technical expert responsible for designing and defining the
+architecture of complex robotic systems and automation solutions, often across multiple
+projects or platforms.
+
+Key Responsibilities
+• Design high-level architecture for robotic and automation systems
+• Define system requirements, frameworks, and standards
+• Lead development of advanced robotic solutions (AI, vision systems, autonomous
+systems)
+• Integrate robotics with software, hardware, and control systems
+• Provide technical leadership to robotics and automation teams
+• Evaluate and implement new technologies in robotics and AI
+• Ensure scalability, reliability, and performance of robotic systems
+• Collaborate with stakeholders and business leaders for strategic planning
+• Oversee system validation, testing, and deployment
+Required Skills
+• Deep expertise in robotics, automation, and control systems
+• Strong programming skills (Python, C++, ROS)
+• Knowledge of AI/ML, computer vision, and autonomous systems
+• System architecture and design skills
+• Leadership and innovation mindset
+Qualifications
+• B.E./B.Tech or M.Tech in Mechanical / Robotics / Mechatronics Engineering
+• 10–15+ years of experience
