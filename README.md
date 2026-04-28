@@ -77,6 +77,12 @@ In this phase, I built a resume parsing engine that converts resume files into c
 - Extracted role, skills, experience, and education
 - Converted all JDs into structured JSON format
 
+---
+## Day 7 – AI Data Pipeline & Storage
+
+- Designed end-to-end AI data pipeline
+- Defined storage structure for resumes, JD, and AI outputs
+- Created metadata standards for tracking AI processing
 
 ---
 ## Project Structure
