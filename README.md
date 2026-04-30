@@ -85,6 +85,13 @@ In this phase, I built a resume parsing engine that converts resume files into c
 - Created metadata standards for tracking AI processing
 
 ---
+## Day 8 – Resume Section Segmentation
+
+- Built section classifier
+- Extracted skills, experience, education
+- Stored structured outputs
+
+---
 ## Project Structure
 
 ```
