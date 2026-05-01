@@ -92,6 +92,14 @@ In this phase, I built a resume parsing engine that converts resume files into c
 - Stored structured outputs
 
 ---
+## Day 9 – Skill Extraction Engine
+
+- Built skill extractor for resumes
+- Supports mechanical and technical skills
+- Added confidence scoring
+- Stored structured skill outputs
+
+---
 ## Project Structure
 
 ```

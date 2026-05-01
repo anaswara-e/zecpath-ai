@@ -1,5 +1,16 @@
-Name: Kiran Das
-Email: kiran@gmail.com
-Skills: Sales, Negotiation, CRM
-Experience: 5 years at XYZ Ltd as Sales Manager
-Education: BBA in Marketing
+Name: Kiran Kumar
+Email: kiran.kumar@gmail.com
+
+Summary:
+Maintenance Engineer experienced in equipment troubleshooting and preventive maintenance.
+
+Skills:
+Maintenance, Troubleshooting, Mechanical Systems, Hydraulics, Pneumatics
+
+Experience:
+Maintenance Engineer at GHI Plant (2 years)
+- Handled machine breakdowns
+- Performed preventive maintenance
+
+Education:
+Diploma in Mechanical Engineering

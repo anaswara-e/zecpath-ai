@@ -1,5 +1,19 @@
-Name: Sneha Patel
-Email: sneha@gmail.com
-Skills: HR Management, Communication, Recruitment
-Experience: 2 years at ABC Corp as HR Executive
-Education: MBA in Human Resources
+Name: Priya Menon
+Email: priya.menon@gmail.com
+
+Summary:
+Quality Engineer focused on inspection, testing, and process improvement.
+
+Skills:
+Quality Control, Inspection, Six Sigma, MS Excel, Documentation
+
+Experience:
+Quality Engineer at DEF Ltd (1.5 years)
+- Conducted quality audits
+- Maintained ISO standards
+
+Education:
+B.Tech Mechanical Engineering
+
+Certifications:
+Six Sigma Green Belt

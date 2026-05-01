@@ -1,5 +1,19 @@
-Name: Anjali Verma
-Email: anjali@gmail.com
-Skills: React, JavaScript, HTML, CSS
-Experience: 3 years at TCS as Frontend Developer
-Education: B.Tech in Information Technology
+Name: Sneha R
+Email: sneha.r@gmail.com
+
+Summary:
+Junior Design Engineer with experience in CAD modeling and product design.
+
+Skills:
+AutoCAD, CATIA, SolidWorks, Mechanical Design, GD&T
+
+Experience:
+Design Engineer at XYZ Pvt Ltd (1 year)
+- Created 3D models using CATIA
+- Worked on component design improvements
+
+Education:
+B.Tech in Mechanical Engineering
+
+Certifications:
+CATIA V5 Certification

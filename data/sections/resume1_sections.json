@@ -1,9 +1,29 @@
 {
     "other": [
-        "Name: Meera Nair",
-        "Email: meera@gmail.com"
+        "Name: Arjun Nair",
+        "Email: arjun.nair@gmail.com",
+        ""
     ],
-    "skills": [],
-    "experience": [],
-    "education": []
+    "summary": [
+        "Recent Mechanical Engineering graduate with strong fundamentals in thermodynamics and design.",
+        ""
+    ],
+    "skills": [
+        "AutoCAD, SolidWorks, Thermodynamics, MATLAB, MS Excel",
+        ""
+    ],
+    "experience": [
+        "Intern at ABC Manufacturing (3 months)",
+        "- Assisted in production line analysis",
+        "- Supported quality inspection",
+        ""
+    ],
+    "education": [
+        "B.Tech in Mechanical Engineering",
+        "APJ Abdul Kalam Technological University",
+        ""
+    ],
+    "certifications": [
+        "AutoCAD Certification"
+    ]
 }

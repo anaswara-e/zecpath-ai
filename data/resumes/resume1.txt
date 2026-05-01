@@ -1,5 +1,20 @@
-Name: Meera Nair
-Email: meera@gmail.com
-Skills: Figma, Adobe XD, Wireframing, Prototyping
-Experience: 2 years at Design Studio as UI/UX Designer
-Education: Bachelor’s in Design
+Name: Arjun Nair
+Email: arjun.nair@gmail.com
+
+Summary:
+Recent Mechanical Engineering graduate with strong fundamentals in thermodynamics and design.
+
+Skills:
+AutoCAD, SolidWorks, Thermodynamics, MATLAB, MS Excel
+
+Experience:
+Intern at ABC Manufacturing (3 months)
+- Assisted in production line analysis
+- Supported quality inspection
+
+Education:
+B.Tech in Mechanical Engineering
+APJ Abdul Kalam Technological University
+
+Certifications:
+AutoCAD Certification
