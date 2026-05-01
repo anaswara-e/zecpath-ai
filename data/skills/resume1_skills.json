@@ -1,18 +1,10 @@
 [
     {
-        "skill": "solidworks",
+        "skill": "matlab",
         "confidence": 0.7
     },
     {
-        "skill": "autocad",
-        "confidence": 0.8
-    },
-    {
-        "skill": "thermodynamics",
-        "confidence": 0.8
-    },
-    {
-        "skill": "excel",
+        "skill": "solidworks",
         "confidence": 0.7
     },
     {
@@ -20,7 +12,15 @@
         "confidence": 0.7
     },
     {
-        "skill": "matlab",
+        "skill": "autocad",
+        "confidence": 0.8
+    },
+    {
+        "skill": "excel",
         "confidence": 0.7
+    },
+    {
+        "skill": "thermodynamics",
+        "confidence": 0.8
     }
 ]

@@ -1,138 +1,116 @@
 # Zecpath AI System
 
-This project is part of an AI-powered hiring platform that automates the recruitment process using AI.
+Zecpath is an AI-powered hiring platform designed to automate the recruitment process — from resume screening to final candidate selection.
 
 ---
 
 ## Features
 
-* ATS Engine (Resume Screening)
-* Screening AI (Voice-based interaction)
-* Interview AI (HR & Technical)
-* Scoring System
+* ATS Engine (Resume Screening & Matching)
+* Screening AI (Automated candidate interaction)
+* Interview AI (HR & Technical evaluation)
+* Skill Extraction & Experience Analysis
+* Final Scoring & Decision Engine
 
 ---
 
-## Day 3 – Environment Setup
-
-* Created modular project structure
-* Setup Python virtual environment
-* Configured basic testing using pytest
-* Organized folders for AI modules
-
----
-
-## Day 4 – Data Understanding & Structuring
-
-I analyzed sample resumes and job descriptions to understand hiring data.
-Based on that, I created structured JSON schemas for candidate profiles
-and job profiles, along with a sample structured resume for AI processing.
-
-### Files Created:
-
-* data/resume_schema.json
-* data/jd_schema.json
-* data/data_entities.md
-* data/structured/sample_resume.json
-
-### Data Added:
-
-* Sample resumes → data/resumes/
-* Job descriptions → data/job_descriptions/
-
----
-
-## Day 5 – Resume Text Extraction Engine
-
-In this phase, I built a resume parsing engine that converts resume files into clean text for AI processing.
-
-### What was implemented:
-
-* Extracted text from PDF, DOCX, and TXT files
-* Cleaned and normalized resume text
-* Removed unwanted symbols and formatting issues
-* Converted text into a consistent lowercase format
-* Saved cleaned output into structured files
-
-### Files Created:
-
-* parsers/resume_parser.py
-* tests/test_parser.py
-
-### Output:
-
-* Cleaned resumes stored in → data/cleaned/
-
-### Key Functionality:
-
-* Multi-format support (.pdf, .docx, .txt)
-* Automated test execution using pytest
-* Structured output for further AI processing
-
----
-## Day 6 – Job Description Parsing
-
-- Built JD parser for Mechanical Engineering roles
-- Processed 100+ job description files automatically
-- Extracted role, skills, experience, and education
-- Converted all JDs into structured JSON format
-
----
-## Day 7 – AI Data Pipeline & Storage
-
-- Designed end-to-end AI data pipeline
-- Defined storage structure for resumes, JD, and AI outputs
-- Created metadata standards for tracking AI processing
-
----
-## Day 8 – Resume Section Segmentation
-
-- Built section classifier
-- Extracted skills, experience, education
-- Stored structured outputs
-
----
-## Day 9 – Skill Extraction Engine
-
-- Built skill extractor for resumes
-- Supports mechanical and technical skills
-- Added confidence scoring
-- Stored structured skill outputs
-
----
 ## Project Structure
 
 ```
 zecpath-ai/
- ├── ats_engine/
- ├── screening_ai/
- ├── interview_ai/
- ├── scoring/
- ├── utils/
- ├── parsers/
- │    └── resume_parser.py
- ├── data/
- │    ├── resumes/
- │    ├── job_descriptions/
- │    ├── structured/
- │    ├── cleaned/
- │    ├── resume_schema.json
- │    ├── jd_schema.json
- │    ├── data_entities.md
- ├── tests/
- │    └── test_parser.py
- ├── main.py
- ├── config.py
- └── README.md
+│
+├── data/
+│   ├── resumes/
+│   ├── job_descriptions/
+│   ├── cleaned/
+│   ├── structured/
+│   └── schemas/
+│
+├── parsers/
+│   ├── resume_parser.py
+│   ├── jd_parser.py
+│   └── section_classifier.py
+│
+├── ats_engine/
+│   ├── ats_scorer.py
+│   ├── skill_extractor.py
+│   └── experience_parser.py
+│
+├── screening_ai/
+│   └── screening_engine.py
+│
+├── interview_ai/
+│   └── interview_engine.py
+│
+├── scoring/
+│   └── scoring_engine.py
+│
+├── utils/
+│   ├── logger.py
+│   └── helpers.py
+│
+├── tests/
+│   ├── test_parser.py
+│   ├── test_skill_extractor.py
+│   └── test_experience_parser.py
+│
+├── main.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
+
+---
+
+## Progress Overview
+
+### Day 3 – Environment Setup
+
+* Project structure created
+* Virtual environment setup
+* Testing configured (pytest)
+
+### Day 4 – Data Structuring
+
+* Designed resume & job description schemas
+* Created structured sample data
+
+### Day 5 – Resume Parsing
+
+* Extracted and cleaned resume text
+* Supported PDF, DOCX, TXT formats
+
+### Day 6 – JD Parsing
+
+* Processed multiple job descriptions
+* Extracted role, skills, experience
+
+### Day 7 – Data Pipeline
+
+* Designed AI data flow and storage structure
+* Defined metadata standards
+
+### Day 8 – Section Segmentation
+
+* Identified resume sections (skills, education, experience)
+
+### Day 9 – Skill Extraction
+
+* Extracted technical & non-technical skills
+* Added confidence scoring
+
+### Day 10 – Experience Parsing
+
+* Extracted company, duration, roles
+* Calculated total experience
+* Added relevance scoring
 
 ---
 
 ## Setup
 
-Install dependencies:
-
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -140,7 +118,7 @@ pip install -r requirements.txt
 
 ## Run Tests
 
-```
+```bash
 pytest
 ```
 
