@@ -1,5 +1,17 @@
 [
     {
+        "skill": "excel",
+        "confidence": 0.7
+    },
+    {
+        "skill": "thermodynamics",
+        "confidence": 0.8
+    },
+    {
+        "skill": "autocad",
+        "confidence": 0.8
+    },
+    {
         "skill": "matlab",
         "confidence": 0.7
     },
@@ -10,17 +22,5 @@
     {
         "skill": "manufacturing",
         "confidence": 0.7
-    },
-    {
-        "skill": "autocad",
-        "confidence": 0.8
-    },
-    {
-        "skill": "excel",
-        "confidence": 0.7
-    },
-    {
-        "skill": "thermodynamics",
-        "confidence": 0.8
     }
 ]

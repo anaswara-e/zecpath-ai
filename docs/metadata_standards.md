@@ -15,7 +15,7 @@
 
 ### AI Metadata
 
-* model_version (e.g., ATS_v1)
+* model_version (e.g ATS_v1)
 * timestamp (processing time)
 
 ### Evaluation Metadata

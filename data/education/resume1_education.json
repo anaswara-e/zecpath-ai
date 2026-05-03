@@ -1,0 +1,28 @@
+{
+    "education": [
+        {
+            "degree": "B.Tech",
+            "field": "Mechanical Engineering",
+            "institution": "Not Extracted",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Autocad",
+            "category": "Design"
+        },
+        {
+            "name": "Solidworks",
+            "category": "Design"
+        },
+        {
+            "name": "Matlab",
+            "category": "Simulation"
+        },
+        {
+            "name": "Quality",
+            "category": "Quality"
+        }
+    ]
+}

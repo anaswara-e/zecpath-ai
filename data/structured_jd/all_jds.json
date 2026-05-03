@@ -13,8 +13,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "26 years",
         "education": "btech",
@@ -23,8 +23,8 @@
     {
         "role": "design engineer",
         "skills": [
-            "design",
             "catia",
+            "design",
             "mechanical"
         ],
         "experience": "38 years",
@@ -34,10 +34,10 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "catia",
-            "ansys",
-            "mechanical"
+            "design",
+            "mechanical",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -59,8 +59,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -80,10 +80,10 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "production",
-            "manufacturing",
             "design",
-            "mechanical"
+            "production",
+            "mechanical",
+            "manufacturing"
         ],
         "experience": "02 years",
         "education": "btech",
@@ -93,10 +93,10 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "production",
-            "manufacturing",
             "design",
-            "mechanical"
+            "production",
+            "mechanical",
+            "manufacturing"
         ],
         "experience": "812 years",
         "education": "btech",
@@ -105,8 +105,8 @@
     {
         "role": "design engineer",
         "skills": [
-            "design",
             "catia",
+            "design",
             "mechanical",
             "manufacturing"
         ],
@@ -117,11 +117,11 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "production",
-            "manufacturing",
+            "catia",
             "design",
+            "production",
             "mechanical",
-            "catia"
+            "manufacturing"
         ],
         "experience": "26 years",
         "education": "btech",
@@ -130,13 +130,13 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "production",
-            "manufacturing",
-            "design",
-            "mechanical",
             "catia",
-            "autocad"
+            "design",
+            "production",
+            "autocad",
+            "mechanical",
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "02 years",
         "education": "diploma",
@@ -145,10 +145,10 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "autocad",
-            "solidworks",
-            "mechanical"
+            "mechanical",
+            "design",
+            "solidworks"
         ],
         "experience": "26 years",
         "education": "diploma",
@@ -158,8 +158,8 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "ansys",
-            "mechanical"
+            "mechanical",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -189,8 +189,8 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "quality control",
-            "mechanical"
+            "mechanical",
+            "quality control"
         ],
         "experience": "1018 years",
         "education": "btech",
@@ -209,12 +209,12 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "production",
-            "manufacturing",
+            "catia",
             "design",
+            "production",
             "mechanical",
-            "catia"
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "36 years",
         "education": "btech",
@@ -224,8 +224,8 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "ansys",
-            "mechanical"
+            "mechanical",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -234,9 +234,9 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "autocad",
-            "mechanical"
+            "mechanical",
+            "design"
         ],
         "experience": "02 years",
         "education": "diploma",
@@ -287,8 +287,8 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "ansys",
-            "mechanical"
+            "mechanical",
+            "ansys"
         ],
         "experience": "410 years",
         "education": "btech",
@@ -307,12 +307,12 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "solidworks",
-            "production",
-            "manufacturing",
             "design",
+            "production",
+            "autocad",
             "mechanical",
-            "autocad"
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "01 year",
         "education": "btech",
@@ -330,9 +330,9 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "autocad",
-            "mechanical"
+            "mechanical",
+            "design"
         ],
         "experience": "512 years",
         "education": "btech",
@@ -341,8 +341,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "maintenance",
+            "design",
             "mechanical",
             "thermodynamics"
         ],
@@ -365,8 +365,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -375,8 +375,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "37 years",
@@ -386,12 +386,12 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "manufacturing",
-            "design",
-            "mechanical",
             "catia",
-            "autocad"
+            "design",
+            "autocad",
+            "mechanical",
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "02 years",
         "education": "btech",
@@ -419,8 +419,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "38 years",
@@ -431,8 +431,8 @@
         "role": "mechanical engineer",
         "skills": [
             "mechanical",
-            "manufacturing",
-            "thermodynamics"
+            "thermodynamics",
+            "manufacturing"
         ],
         "experience": "not specified",
         "education": "mtech",
@@ -474,8 +474,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "815 years",
@@ -487,8 +487,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "not specified",
         "education": "btech",
@@ -507,11 +507,11 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "manufacturing",
+            "catia",
             "design",
             "mechanical",
-            "catia"
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "510 years",
         "education": "btech",
@@ -520,11 +520,11 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "manufacturing",
+            "catia",
             "design",
             "mechanical",
-            "catia"
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "36 years",
         "education": "btech",
@@ -553,11 +553,11 @@
     {
         "role": "design engineer",
         "skills": [
-            "solidworks",
-            "production",
-            "manufacturing",
             "design",
-            "mechanical"
+            "production",
+            "mechanical",
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "38 years",
         "education": "btech",
@@ -567,8 +567,8 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "ansys",
-            "mechanical"
+            "mechanical",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -577,8 +577,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "maintenance",
+            "design",
             "mechanical"
         ],
         "experience": "37 years",
@@ -589,8 +589,8 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "815 years",
@@ -600,8 +600,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "1015 years",
@@ -633,8 +633,8 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "1015 years",
@@ -646,8 +646,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "1020 years",
         "education": "btech",
@@ -679,8 +679,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -691,8 +691,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "36 years",
         "education": "btech",
@@ -723,10 +723,10 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "production",
-            "manufacturing",
             "design",
-            "mechanical"
+            "production",
+            "mechanical",
+            "manufacturing"
         ],
         "experience": "02 years",
         "education": "btech",
@@ -736,8 +736,8 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "812 years",
@@ -768,9 +768,9 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "ansys",
             "mechanical",
-            "thermodynamics"
+            "thermodynamics",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -822,9 +822,9 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "quality control",
             "mechanical",
-            "production"
+            "production",
+            "quality control"
         ],
         "experience": "02 years",
         "education": "btech",
@@ -834,9 +834,9 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "quality control",
             "mechanical",
-            "production"
+            "production",
+            "quality control"
         ],
         "experience": "812 years",
         "education": "btech",
@@ -866,8 +866,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "maintenance",
+            "design",
             "mechanical",
             "production"
         ],
@@ -919,8 +919,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "02 years",
@@ -940,11 +940,11 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "manufacturing",
+            "catia",
             "design",
             "mechanical",
-            "catia"
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "610 years",
         "education": "btech",
@@ -963,12 +963,12 @@
     {
         "role": "design engineer",
         "skills": [
-            "ansys",
-            "production",
-            "design",
-            "mechanical",
             "catia",
-            "autocad"
+            "design",
+            "production",
+            "autocad",
+            "mechanical",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -978,8 +978,8 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "03 years",
@@ -990,9 +990,9 @@
         "role": "mechanical engineer",
         "skills": [
             "design",
-            "ansys",
             "mechanical",
-            "thermodynamics"
+            "thermodynamics",
+            "ansys"
         ],
         "experience": "36 years",
         "education": "btech",
@@ -1032,8 +1032,8 @@
         "skills": [
             "design",
             "mechanical",
-            "production",
-            "manufacturing"
+            "manufacturing",
+            "production"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -1042,9 +1042,9 @@
     {
         "role": "design engineer",
         "skills": [
-            "design",
             "autocad",
-            "mechanical"
+            "mechanical",
+            "design"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -1054,8 +1054,8 @@
         "role": "design engineer",
         "skills": [
             "design",
-            "ansys",
-            "mechanical"
+            "mechanical",
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -1064,8 +1064,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "mechanical",
             "production",
+            "mechanical",
             "manufacturing"
         ],
         "experience": "37 years",
@@ -1105,12 +1105,12 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "ansys",
             "maintenance",
-            "production",
             "design",
+            "thermodynamics",
+            "production",
             "mechanical",
-            "thermodynamics"
+            "ansys"
         ],
         "experience": "37 years",
         "education": "btech",
@@ -1119,12 +1119,12 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "solidworks",
-            "production",
-            "manufacturing",
+            "catia",
             "design",
+            "production",
             "mechanical",
-            "catia"
+            "manufacturing",
+            "solidworks"
         ],
         "experience": "38 years",
         "education": "btech",
@@ -1134,10 +1134,10 @@
         "role": "mechanical engineer",
         "skills": [
             "maintenance",
-            "production",
-            "manufacturing",
             "design",
-            "mechanical"
+            "production",
+            "mechanical",
+            "manufacturing"
         ],
         "experience": "not specified",
         "education": "btech",
@@ -1146,8 +1146,8 @@
     {
         "role": "design engineer",
         "skills": [
-            "design",
             "catia",
+            "design",
             "mechanical",
             "manufacturing"
         ],
@@ -1158,8 +1158,8 @@
     {
         "role": "mechanical engineer",
         "skills": [
-            "design",
             "maintenance",
+            "design",
             "mechanical"
         ],
         "experience": "37 years",
