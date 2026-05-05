@@ -1,66 +1,71 @@
-import pdfplumber
-from docx import Document
+import os
 import re
 
+try:
+    import docx
+except:
+    docx = None
 
-# ---------------- PDF ----------------
-def extract_text_from_pdf(file_path):
-    text = ""
-    with pdfplumber.open(file_path) as pdf:
-        for page in pdf.pages:
-            text += page.extract_text() or ""
-    return text
-
-
-# ---------------- DOCX ----------------
-def extract_text_from_docx(file_path):
-    doc = Document(file_path)
-    text = "\n".join([para.text for para in doc.paragraphs])
-    return text
+try:
+    from PyPDF2 import PdfReader
+except:
+    PdfReader = None
 
 
-# ---------------- TXT ----------------
-def extract_text_from_txt(file_path):
+def read_txt(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return f.read()
 
 
-# ---------------- CLEAN TEXT ----------------
+def read_docx(file_path):
+    if not docx:
+        raise ImportError("python-docx not installed")
+
+    doc = docx.Document(file_path)
+    text = []
+
+    for para in doc.paragraphs:
+        text.append(para.text)
+
+    return "\n".join(text)
+
+
+def read_pdf(file_path):
+    if not PdfReader:
+        raise ImportError("PyPDF2 not installed")
+
+    reader = PdfReader(file_path)
+    text = []
+
+    for page in reader.pages:
+        text.append(page.extract_text())
+
+    return "\n".join(text)
+
+
 def clean_text(text):
-    # remove new lines
-    text = text.replace("\n", " ")
-
-    # remove extra spaces
-    text = " ".join(text.split())
-
-    # remove special characters
-    text = re.sub(r"[^a-zA-Z0-9\s]", "", text)
-
-    # convert to lowercase
     text = text.lower()
+    text = re.sub(r"\s+", " ", text)   # remove extra spaces
+    text = re.sub(r"[^a-z0-9\s\.\,\-]", "", text)  # remove unwanted chars
+    return text.strip()
 
-    return text
+def extract_text(file_path):
 
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"{file_path} not found")
 
-# ---------------- MAIN PARSER ----------------
-def parse_resume(file_path):
-    if file_path.endswith(".pdf"):
-        raw_text = extract_text_from_pdf(file_path)
+    if file_path.endswith(".txt"):
+        text = read_txt(file_path)
 
     elif file_path.endswith(".docx"):
-        raw_text = extract_text_from_docx(file_path)
+        text = read_docx(file_path)
 
-    elif file_path.endswith(".txt"):
-        raw_text = extract_text_from_txt(file_path)
+    elif file_path.endswith(".pdf"):
+        text = read_pdf(file_path)
 
     else:
         raise ValueError("Unsupported file format")
 
-    cleaned = clean_text(raw_text)
+    cleaned = clean_text(text)
+
     return cleaned
-
-
-# ---------------- SAVE CLEANED OUTPUT ----------------
-def save_cleaned_text(text, filename):
-    with open(f"data/cleaned/{filename}.txt", "w", encoding="utf-8") as f:
-        f.write(text)
