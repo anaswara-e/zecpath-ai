@@ -11,11 +11,9 @@ try:
 except:
     PdfReader = None
 
-
 def read_txt(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return f.read()
-
 
 def read_docx(file_path):
     if not docx:
@@ -29,7 +27,6 @@ def read_docx(file_path):
 
     return "\n".join(text)
 
-
 def read_pdf(file_path):
     if not PdfReader:
         raise ImportError("PyPDF2 not installed")
@@ -38,15 +35,21 @@ def read_pdf(file_path):
     text = []
 
     for page in reader.pages:
-        text.append(page.extract_text())
+        page_text = page.extract_text()
+        if page_text:
+            text.append(page_text)
 
     return "\n".join(text)
 
-
 def clean_text(text):
     text = text.lower()
-    text = re.sub(r"\s+", " ", text)   # remove extra spaces
-    text = re.sub(r"[^a-z0-9\s\.\,\-]", "", text)  # remove unwanted chars
+
+    text = re.sub(r"[•●▪■►]", " ", text)
+
+    text = re.sub(r"[^a-z0-9\s\.\,\-]", " ", text)
+
+    text = re.sub(r"\s+", " ", text)
+
     return text.strip()
 
 def extract_text(file_path):

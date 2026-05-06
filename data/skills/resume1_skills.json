@@ -1,22 +1,26 @@
 [
     {
-        "skill": "thermodynamics",
-        "confidence": 0.8
+        "skill": "product_design",
+        "confidence": 0.7
     },
     {
         "skill": "autocad",
         "confidence": 0.8
     },
     {
-        "skill": "excel",
+        "skill": "production",
         "confidence": 0.7
     },
     {
-        "skill": "matlab",
+        "skill": "quality",
         "confidence": 0.7
     },
     {
         "skill": "solidworks",
+        "confidence": 0.7
+    },
+    {
+        "skill": "matlab",
         "confidence": 0.7
     },
     {

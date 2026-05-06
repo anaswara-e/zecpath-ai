@@ -1,25 +1,25 @@
-from parsers.resume_parser import parse_resume, save_cleaned_text
+from parsers.resume_parser import extract_text
+from parsers.section_classifier import detect_sections
 
 
 def test_resume_parsing():
+
     file_path = "data/resumes/resume1.txt"
 
-    text = parse_resume(file_path)
-    save_cleaned_text(text, "resume_cleaned")
+    text = extract_text(file_path)
+
+    print(text)
 
     assert len(text) > 0
-
-from parsers.resume_parser import parse_resume
-from parsers.section_parser import split_sections
 
 
 def test_section_detection():
 
-    file_path = "data/resumes/resume1.txt"  # change if needed
+    file_path = "data/resumes/resume1.txt"
 
-    text = parse_resume(file_path)
+    text = extract_text(file_path)
 
-    sections = split_sections(text)
+    sections = detect_sections(text)
 
     print(sections)
 
