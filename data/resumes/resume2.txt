@@ -1,19 +1,85 @@
-Name: Sneha R
-Email: sneha.r@gmail.com
+ARJUN MENON
+Bangalore, India
+Phone: +91-9876543210
+Email: arjun.menon@gmail.com
 
-Summary:
-Junior Design Engineer with experience in CAD modeling and product design.
+PROFESSIONAL SUMMARY
+Detail-oriented Junior Design Engineer with experience in CAD modeling, engineering drawings, BOM preparation, and product design support. Proficient in SolidWorks, CATIA, and AutoCAD with strong understanding of manufacturing processes, GD&T, and product lifecycle activities. Skilled in collaborating with engineering and production teams to deliver manufacturable and cost-effective designs.
 
-Skills:
-AutoCAD, CATIA, SolidWorks, Mechanical Design, GD&T
+KEY SKILLS
+SolidWorks
+CATIA
+AutoCAD
+2D Drafting
+3D CAD Modeling
+GD&T
+Engineering Drawings
+BOM Preparation
+Product Design
+Design Validation
+Manufacturing Processes
+Material Selection
+Technical Documentation
+Problem Solving
+Team Collaboration
+Design Optimization
 
-Experience:
-Design Engineer at XYZ Pvt Ltd (1 year)
-- Created 3D models using CATIA
-- Worked on component design improvements
+WORK EXPERIENCE
 
-Education:
-B.Tech in Mechanical Engineering
+Junior Design Engineer
+TechNova Engineering Solutions
+Bangalore, India
+2019 - Present
 
-Certifications:
-CATIA V5 Certification
+- Developed 2D and 3D CAD models for mechanical assemblies and components
+- Prepared engineering drawings and BOM documentation for manufacturing
+- Modified designs based on testing feedback and production requirements
+- Collaborated with production teams to ensure design feasibility
+- Supported prototype development and validation activities
+- Maintained revision-controlled engineering documentation
+- Improved CAD modeling efficiency reducing redesign time by 20%
+- Assisted in tolerance analysis and GD&T implementation
+
+Mechanical Design Trainee
+MechWorks Pvt Ltd
+Bangalore, India
+2017 - 2019
+
+- Assisted in drafting and CAD modeling tasks
+- Supported product testing and engineering documentation
+- Conducted material selection and design optimization studies
+- Worked with senior engineers on assembly design projects
+
+EDUCATION
+
+Bachelor of Technology in Mechanical Engineering
+National Institute of Technology Karnataka
+2013 - 2017
+
+CERTIFICATIONS
+
+Certified SolidWorks Professional CSWP
+GD&T Fundamentals Certification
+Advanced AutoCAD Design Training
+
+PROJECTS
+
+Compact Mechanical Housing Design
+- Developed optimized housing design reducing material usage by 14%
+
+Assembly Fixture Improvement
+- Improved fixture assembly process reducing setup time by 12%
+
+TECHNICAL TOOLS
+
+SolidWorks
+CATIA
+AutoCAD
+Creo
+MS Office
+
+LANGUAGES
+
+English
+Malayalam
+Hindi

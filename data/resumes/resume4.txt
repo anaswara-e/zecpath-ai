@@ -1,19 +1,83 @@
-Name: Priya Menon
-Email: priya.menon@gmail.com
+ARJUN MENON
+Bangalore, India
+Phone: +91-9876543210
+Email: arjun.menon@gmail.com
 
-Summary:
-Quality Engineer focused on inspection, testing, and process improvement.
+PROFESSIONAL SUMMARY
+Mechanical Draftsman with strong expertise in technical drafting, AutoCAD, engineering drawings, and mechanical layouts. Experienced in preparing precise technical documentation, updating drawings, and supporting engineering teams in manufacturing and design projects. Skilled in interpreting engineering sketches and ensuring drafting accuracy according to industry standards.
 
-Skills:
-Quality Control, Inspection, Six Sigma, MS Excel, Documentation
+KEY SKILLS
+AutoCAD
+Mechanical Drafting
+Technical Drawings
+Engineering Layouts
+2D Drafting
+Engineering Documentation
+Drawing Revisions
+Drafting Standards
+BOM Documentation
+Mechanical Systems
+Attention to Detail
+Problem Solving
+Team Coordination
+GD&T Basics
+CAD Support
 
-Experience:
-Quality Engineer at DEF Ltd (1.5 years)
-- Conducted quality audits
-- Maintained ISO standards
+WORK EXPERIENCE
 
-Education:
-B.Tech Mechanical Engineering
+Mechanical Draftsman
+TechNova Engineering Solutions
+Bangalore, India
+2019 - Present
 
-Certifications:
-Six Sigma Green Belt
+- Prepared detailed mechanical drawings and technical layouts using AutoCAD
+- Converted engineering concepts and rough sketches into production-ready drawings
+- Updated drawings according to engineering change requests
+- Maintained drawing records and documentation databases
+- Coordinated with engineers and production teams for drawing clarifications
+- Ensured compliance with drafting standards and tolerances
+- Improved drafting accuracy and reduced documentation errors by 18%
+- Supported manufacturing teams with technical drawing interpretation
+
+Drafting Trainee
+MechWorks Pvt Ltd
+Bangalore, India
+2017 - 2019
+
+- Assisted in preparing engineering layouts and mechanical drawings
+- Supported CAD revisions and drawing documentation
+- Maintained technical records and drawing archives
+- Assisted design engineers in drafting support activities
+
+EDUCATION
+
+Bachelor of Technology in Mechanical Engineering
+National Institute of Technology Karnataka
+2013 - 2017
+
+CERTIFICATIONS
+
+AutoCAD Mechanical Certification
+Engineering Drafting Certification
+GD&T Basics Training
+
+PROJECTS
+
+Fabrication Layout Improvement
+- Improved fabrication layout drawings reducing production confusion by 20%
+
+Machine Assembly Drafting Support
+- Created detailed assembly drawings for shop floor implementation
+
+TECHNICAL TOOLS
+
+AutoCAD
+SolidWorks
+MS Office
+CATIA
+
+LANGUAGES
+
+English
+Hindi
+Malayalam

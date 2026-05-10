@@ -1,29 +1,82 @@
 {
     "other": [
-        "Name: Arjun Nair",
-        "Email: arjun.nair@gmail.com",
+        "ARJUN MENON",
+        "Bangalore, India",
+        "Phone: +91-9876543210",
+        "Email: arjun.menon@gmail.com",
+        "LinkedIn: linkedin.com/in/arjunmenon",
         ""
     ],
     "summary": [
-        "Recent Mechanical Engineering graduate with strong fundamentals in thermodynamics and design.",
+        "Graduate Mechanical Engineer with strong knowledge of mechanical engineering principles, CAD modeling, manufacturing processes, and engineering documentation. Skilled in SolidWorks, AutoCAD, technical drawings, and problem-solving. Passionate about product development, production support, and continuous improvement. Ability to collaborate with cross-functional teams and adapt quickly to new engineering environments.",
         ""
     ],
     "skills": [
-        "AutoCAD, SolidWorks, Thermodynamics, MATLAB, MS Excel",
+        "Mechanical Engineering Principles",
+        "CAD Modeling",
+        "SolidWorks",
+        "AutoCAD",
+        "Engineering Drawings",
+        "Manufacturing Processes",
+        "Technical Documentation",
+        "Product Development",
+        "Problem Solving",
+        "Team Collaboration",
+        "Production Support",
+        "Design Validation",
+        "Material Selection",
+        "Quality Control",
+        "GD&T Basics",
+        "Microsoft Excel",
         ""
     ],
     "experience": [
-        "Intern at ABC Manufacturing (3 months)",
-        "- Assisted in production line analysis",
-        "- Supported quality inspection",
+        "",
+        "Junior Mechanical Design Associate",
+        "TechNova Engineering Solutions",
+        "Bangalore, India",
+        "2019 - Present",
         ""
     ],
+    "projects": [
+        "",
+        "Industrial Tool Redesign",
+        "- Assisted in redesigning a handheld industrial tool improving durability and ergonomics",
+        "",
+        "Lightweight Fixture Development",
+        "- Supported material optimization project reducing fixture weight by 18%",
+        "",
+        "ACHIEVEMENTS",
+        "",
+        "- Recognized for improving engineering documentation efficiency",
+        "- Successfully supported multiple prototype validation activities",
+        "",
+        "TECHNICAL TOOLS",
+        "",
+        "SolidWorks",
+        "AutoCAD",
+        "CATIA",
+        "MS Excel",
+        "PLM Tools",
+        "",
+        "LANGUAGES",
+        "",
+        "English",
+        "Hindi",
+        "Malayalam"
+    ],
     "education": [
-        "B.Tech in Mechanical Engineering",
-        "APJ Abdul Kalam Technological University",
+        "",
+        "Bachelor of Technology in Mechanical Engineering",
+        "National Institute of Technology Karnataka",
+        "2013 - 2017",
         ""
     ],
     "certifications": [
-        "AutoCAD Certification"
+        "",
+        "Certified SolidWorks Associate",
+        "AutoCAD Mechanical Design Certification",
+        "Manufacturing Process Fundamentals",
+        ""
     ]
 }

@@ -1,72 +1,82 @@
-from sentence_transformers import SentenceTransformer
+"""
+semantic_matcher.py — lightweight version using TF-IDF + cosine similarity.
+No model downloads, no GPU/RAM issues. Drop-in replacement for the
+SentenceTransformer version.
+"""
+
+import re
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load model once
-model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# ── Text preprocessing ────────────────────────────────────────────────────────
+
+def preprocess(text: str) -> str:
+    """Lowercase, remove punctuation, collapse whitespace."""
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
 
 
-# -------------------------------
-# Convert text → embedding
-# -------------------------------
-def get_embedding(text):
-    return model.encode(text)
+# ── Core similarity ───────────────────────────────────────────────────────────
+
+def compute_tfidf_similarity(text1: str, text2: str) -> float:
+    """Return cosine similarity (0–100) between two text strings."""
+    t1 = preprocess(text1)
+    t2 = preprocess(text2)
+
+    if not t1 or not t2:
+        return 0.0
+
+    vectorizer = TfidfVectorizer()
+    try:
+        tfidf_matrix = vectorizer.fit_transform([t1, t2])
+        score = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])[0][0]
+        return round(float(score) * 100, 2)
+    except Exception:
+        return 0.0
 
 
-# -------------------------------
-# Similarity between 2 texts
-# -------------------------------
-def compute_similarity(text1, text2):
+# ── Project text helper ───────────────────────────────────────────────────────
 
-    emb1 = get_embedding(text1)
-    emb2 = get_embedding(text2)
-
-    score = cosine_similarity([emb1], [emb2])[0][0]
-
-    return round(float(score), 4)
+def get_projects_text(resume: dict) -> str:
+    projects = resume.get("projects", [])
+    return " ".join(p.get("description", "") for p in projects)
 
 
-# -------------------------------
-# Resume ↔ JD Matching
-# -------------------------------
-def match_resume_to_jd(resume, jd):
+# ── Main matching function ────────────────────────────────────────────────────
 
-    results = {}
+def match_resume_to_jd(resume: dict, jd: dict) -> dict:
+    """
+    Compare a resume dict against a JD dict and return similarity scores.
 
-    # Skills
-    resume_skills = " ".join(resume.get("skills", []))
-    jd_skills = " ".join(jd.get("required_skills", []))
-    results["skills_similarity"] = compute_similarity(resume_skills, jd_skills)
+    resume dict keys used:
+        skills      → list of skill strings
+        experience  → list of experience dicts
+        projects    → list of {"description": str}
 
-    # Experience
-    resume_roles = " ".join([exp["role"] for exp in resume.get("experience", [])])
-    jd_role = jd.get("job_title", "")
-    results["experience_similarity"] = compute_similarity(resume_roles, jd_role)
+    jd dict keys used:
+        required_skills         → list of skill strings
+        job_description_text    → full JD text string
+    """
+    jd_text = jd.get("job_description_text", "")
 
-    # Projects
-    resume_projects = " ".join([p["description"] for p in resume.get("projects", [])])
-    jd_desc = jd.get("job_description_text", "")
-    results["project_similarity"] = compute_similarity(resume_projects, jd_desc)
+    # 1. Skills text similarity
+    resume_skills_text = " ".join(resume.get("skills", []))
+    jd_skills_text = " ".join(jd.get("required_skills", []))
+    skill_sim = compute_tfidf_similarity(resume_skills_text, jd_skills_text)
 
-    # Final score
-    final_score = (
-        0.4 * results["skills_similarity"] +
-        0.3 * results["experience_similarity"] +
-        0.3 * results["project_similarity"]
-    )
+    # 2. Projects / experience text vs full JD
+    projects_text = get_projects_text(resume)
+    project_sim = compute_tfidf_similarity(projects_text, jd_text)
 
-    results["final_similarity_score"] = round(final_score * 100, 2)
+    # 3. Weighted final similarity
+    # Skills similarity carries more weight for ATS purposes
+    final_sim = round((skill_sim * 0.6) + (project_sim * 0.4), 2)
 
-    return results
-
-
-# -------------------------------
-# Classification
-# -------------------------------
-def classify_match(score):
-
-    if score >= 85:
-        return "Strong Match"
-    elif score >= 65:
-        return "Moderate Match"
-    else:
-        return "Weak Match"
+    return {
+        "skill_similarity": skill_sim,
+        "project_similarity": project_sim,
+        "final_similarity_score": final_sim
+    }

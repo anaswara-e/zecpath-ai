@@ -1,16 +1,84 @@
-Name: Rahul Verma
-Email: rahul.verma@gmail.com
+ARJUN MENON
+Bangalore, India
+Phone: +91-9876543210
+Email: arjun.menon@gmail.com
 
-Summary:
-Production Engineer with 2 years experience in manufacturing and process optimization.
+PROFESSIONAL SUMMARY
+Results-driven CAD Engineer with expertise in 2D drafting, 3D modeling, technical drawings, and engineering documentation. Experienced in converting conceptual ideas into manufacturable CAD models using SolidWorks, AutoCAD, and CATIA. Strong understanding of GD&T, drafting standards, and manufacturing processes with focus on precision and design quality.
 
-Skills:
-Production, Manufacturing, CNC, Quality Control, Maintenance
+CORE COMPETENCIES
+CAD Modeling
+2D Drafting
+3D Design
+SolidWorks
+CATIA
+AutoCAD
+Engineering Drawings
+GD&T
+Technical Documentation
+BOM Preparation
+Manufacturing Processes
+Design Modifications
+Product Design
+Tolerance Analysis
+Drafting Standards
 
-Experience:
-Production Engineer at ABC Industries (2 years)
-- Managed production line efficiency
-- Reduced downtime by 15%
+PROFESSIONAL EXPERIENCE
 
-Education:
-B.Tech Mechanical Engineering
+CAD Engineer
+TechNova Engineering Solutions
+Bangalore, India
+2019 - Present
+
+- Developed accurate 2D drawings and 3D CAD models for mechanical systems
+- Converted conceptual designs into detailed technical drawings
+- Ensured compliance with drafting standards and engineering tolerances
+- Revised CAD models according to engineering changes and production requirements
+- Collaborated with manufacturing teams to improve design manufacturability
+- Maintained CAD libraries and revision-controlled documentation
+- Reduced drawing preparation time by 22% through CAD standardization
+- Supported prototype development and testing activities
+
+CAD Design Associate
+MechWorks Pvt Ltd
+Bangalore, India
+2017 - 2019
+
+- Assisted in preparing detailed engineering drawings
+- Supported product design and drafting activities
+- Performed design revisions and documentation updates
+- Coordinated with engineering teams on CAD-related tasks
+
+EDUCATION
+
+Bachelor of Technology in Mechanical Engineering
+National Institute of Technology Karnataka
+2013 - 2017
+
+CERTIFICATIONS
+
+Certified SolidWorks Professional
+AutoCAD Certified User
+CAD Drafting and GD&T Certification
+
+PROJECTS
+
+Mechanical Bracket Design Optimization
+- Redesigned bracket assembly reducing manufacturing complexity by 16%
+
+Industrial Component CAD Library
+- Created standardized CAD library improving engineering productivity
+
+TECHNICAL TOOLS
+
+SolidWorks
+AutoCAD
+CATIA
+Creo
+MS Excel
+
+LANGUAGES
+
+English
+Hindi
+Malayalam

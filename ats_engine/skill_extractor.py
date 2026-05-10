@@ -1,14 +1,36 @@
 import re
 
 # -------------------------------
-# Skill Dictionary (Mechanical + Programming + Soft Skills)
+# Skill Dictionary - EXPANDED with AI/ML + Software skills
 # -------------------------------
 SKILL_DB = {
 
-    # Programming (⚠️ ADDED FIX)
+    # Programming
     "python": ["python", "py"],
     "c++": ["c++", "cpp"],
     "matlab": ["matlab"],
+    "r": [" r ", "r programming"],
+    "java": ["java"],
+    "sql": ["sql"],
+
+    # AI / ML Frameworks  ← ADDED (was completely missing before)
+    "machine_learning": ["machine learning", "ml", "supervised learning", "unsupervised learning",
+                          "supervised", "unsupervised", "reinforcement learning"],
+    "deep_learning": ["deep learning", "dl", "neural network", "neural networks"],
+    "tensorflow": ["tensorflow", "tf"],
+    "pytorch": ["pytorch", "torch"],
+    "scikit_learn": ["scikit learn", "sklearn", "scikit-learn"],
+    "keras": ["keras"],
+    "nlp": ["nlp", "natural language processing"],
+    "computer_vision": ["computer vision", "cv", "image processing"],
+    "data_analysis": ["data analysis", "data analytics", "statistical analysis", "statistics"],
+    "pandas": ["pandas"],
+    "numpy": ["numpy"],
+    "iot": ["iot", "internet of things"],
+    "predictive_maintenance": ["predictive maintenance", "predictive analytics"],
+    "automation": ["automation", "automated"],
+    "ai": ["artificial intelligence", " ai ", "ai/ml"],
+    "mlops": ["mlops", "ml pipeline", "machine learning pipeline"],
 
     # CAD & Design
     "cad": ["cad"],
@@ -22,7 +44,7 @@ SKILL_DB = {
     "abaqus": ["abaqus"],
 
     # Core Mechanical
-    "product_design": ["product design", "design"],
+    "product_design": ["product design"],
     "mechanical_design": ["mechanical design"],
     "machine_design": ["machine design"],
     "design_engineering": ["design engineering"],
@@ -51,7 +73,7 @@ SKILL_DB = {
     # Product Lifecycle
     "plm": ["plm", "product lifecycle management"],
     "bom": ["bom", "bill of materials"],
-    "dfma": ["dfma", "design for manufacturing"],
+    "dfma": ["dfma", "design for manufacturing and assembly"],
     "dfm": ["dfm"],
     "dfa": ["dfa"],
 
@@ -69,8 +91,8 @@ SKILL_DB = {
     # Soft Skills
     "communication": ["communication"],
     "teamwork": ["teamwork", "team collaboration"],
-    "problem_solving": ["problem solving"],
-    "innovation": ["innovation", "creativity"]
+    "problem_solving": ["problem solving", "analytical thinking"],
+    "innovation": ["innovation", "creativity"],
 }
 
 # -------------------------------
@@ -85,44 +107,44 @@ SKILL_STACKS = {
 # -------------------------------
 def clean_text(text):
     text = text.lower()
-    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    text = re.sub(r"[^a-z0-9\s\+\&]", " ", text)  # keep + and & for skills like c++ and gd&t
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
 # -------------------------------
-# Extract Skills (FIXED MATCHING)
+# Extract Skills - improved matching
 # -------------------------------
 def extract_skills(text):
-    text = clean_text(text)
-    found_skills = []
+    cleaned = clean_text(text)
+    found_skills = set()
 
     for skill, variants in SKILL_DB.items():
         for variant in variants:
-            # ✅ STRONG WORD MATCH (FIX)
-            if f" {variant} " in f" {text} ":
-                found_skills.append(skill)
+            variant_clean = variant.strip()
+            # word boundary match using spaces (handles multi-word phrases too)
+            padded_text = f" {cleaned} "
+            padded_variant = f" {variant_clean} "
+            if padded_variant in padded_text:
+                found_skills.add(skill)
                 break
 
     # Skill stacks
     for stack, skills in SKILL_STACKS.items():
-        if stack in text:
-            found_skills.extend(skills)
+        if stack in cleaned:
+            for s in skills:
+                found_skills.add(s)
 
-    return list(set(found_skills))
+    return list(found_skills)
 
 
 # -------------------------------
 # Confidence Score
 # -------------------------------
 def calculate_confidence(skill, text):
-    text = text.lower()
-
-    # check all variants instead of only main skill name
+    text_lower = text.lower()
     variants = SKILL_DB.get(skill, [skill])
 
-    count = 0
-    for v in variants:
-        count += text.count(v)
+    count = sum(text_lower.count(v) for v in variants)
 
     if count >= 3:
         return 0.9
@@ -139,14 +161,11 @@ def calculate_confidence(skill, text):
 # -------------------------------
 def extract_skills_with_confidence(text):
     skills = extract_skills(text)
-
     results = []
     for skill in skills:
         confidence = calculate_confidence(skill, text)
-
         results.append({
             "skill": skill,
             "confidence": round(confidence, 2)
         })
-
     return results

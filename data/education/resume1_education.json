@@ -1,10 +1,10 @@
 {
     "education": [
         {
-            "degree": "B.Tech",
+            "degree": "ITI",
             "field": "Mechanical Engineering",
             "institution": "Not Extracted",
-            "year": null
+            "year": "2019"
         }
     ],
     "certifications": [
@@ -17,8 +17,8 @@
             "category": "Design"
         },
         {
-            "name": "Matlab",
-            "category": "Simulation"
+            "name": "Catia",
+            "category": "Design"
         },
         {
             "name": "Quality",

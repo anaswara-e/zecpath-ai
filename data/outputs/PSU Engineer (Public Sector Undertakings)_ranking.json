@@ -1,0 +1,328 @@
+{
+  "ranked_list": [
+    {
+      "candidate_id": "resume4.txt",
+      "final_score": 71.1,
+      "breakdown": {
+        "skill_score": 63.64,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 40.1
+      },
+      "rank": 1,
+      "status": "Review",
+      "normalized_score": 100.0,
+      "fair_score": 49.52,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (71.1) and fair score (49.52) differ by 21.6 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume1.txt",
+      "final_score": 68.9,
+      "breakdown": {
+        "skill_score": 58.82,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 37.08
+      },
+      "rank": 2,
+      "status": "Review",
+      "normalized_score": 80.0,
+      "fair_score": 45.78,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.9) and fair score (45.78) differ by 23.1 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume5.txt",
+      "final_score": 68.4,
+      "breakdown": {
+        "skill_score": 58.33,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 35.8
+      },
+      "rank": 3,
+      "status": "Review",
+      "normalized_score": 75.45,
+      "fair_score": 44.81,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.4) and fair score (44.81) differ by 23.6 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume2.txt",
+      "final_score": 68.1,
+      "breakdown": {
+        "skill_score": 59.38,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 33.24
+      },
+      "rank": 4,
+      "status": "Review",
+      "normalized_score": 72.73,
+      "fair_score": 43.7,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.1) and fair score (43.7) differ by 24.4 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume6.txt",
+      "final_score": 68.0,
+      "breakdown": {
+        "skill_score": 57.89,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 34.35
+      },
+      "rank": 5,
+      "status": "Review",
+      "normalized_score": 71.82,
+      "fair_score": 43.77,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.0) and fair score (43.77) differ by 24.2 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume3.txt",
+      "final_score": 60.1,
+      "breakdown": {
+        "skill_score": 41.03,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 22.99
+      },
+      "rank": 6,
+      "status": "Review",
+      "normalized_score": 0.0,
+      "fair_score": 30.21,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (60.1) and fair score (30.21) differ by 29.9 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    }
+  ],
+  "top_candidates": [
+    {
+      "candidate_id": "resume4.txt",
+      "final_score": 71.1,
+      "breakdown": {
+        "skill_score": 63.64,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 40.1
+      },
+      "rank": 1,
+      "status": "Review",
+      "normalized_score": 100.0,
+      "fair_score": 49.52,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (71.1) and fair score (49.52) differ by 21.6 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume1.txt",
+      "final_score": 68.9,
+      "breakdown": {
+        "skill_score": 58.82,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 37.08
+      },
+      "rank": 2,
+      "status": "Review",
+      "normalized_score": 80.0,
+      "fair_score": 45.78,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.9) and fair score (45.78) differ by 23.1 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume5.txt",
+      "final_score": 68.4,
+      "breakdown": {
+        "skill_score": 58.33,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 35.8
+      },
+      "rank": 3,
+      "status": "Review",
+      "normalized_score": 75.45,
+      "fair_score": 44.81,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.4) and fair score (44.81) differ by 23.6 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume2.txt",
+      "final_score": 68.1,
+      "breakdown": {
+        "skill_score": 59.38,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 33.24
+      },
+      "rank": 4,
+      "status": "Review",
+      "normalized_score": 72.73,
+      "fair_score": 43.7,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.1) and fair score (43.7) differ by 24.4 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume6.txt",
+      "final_score": 68.0,
+      "breakdown": {
+        "skill_score": 57.89,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 34.35
+      },
+      "rank": 5,
+      "status": "Review",
+      "normalized_score": 71.82,
+      "fair_score": 43.77,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (68.0) and fair score (43.77) differ by 24.2 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    }
+  ],
+  "recruiter_summary": {
+    "job_id": "PSU Engineer (Public Sector Undertakings)",
+    "summary": {
+      "total_candidates": 6,
+      "shortlisted": 0,
+      "review": 6,
+      "rejected": 0
+    },
+    "top_candidates": [
+      {
+        "candidate_id": "resume4.txt",
+        "score": 71.1,
+        "status": "Review"
+      },
+      {
+        "candidate_id": "resume1.txt",
+        "score": 68.9,
+        "status": "Review"
+      },
+      {
+        "candidate_id": "resume5.txt",
+        "score": 68.4,
+        "status": "Review"
+      },
+      {
+        "candidate_id": "resume2.txt",
+        "score": 68.1,
+        "status": "Review"
+      },
+      {
+        "candidate_id": "resume6.txt",
+        "score": 68.0,
+        "status": "Review"
+      }
+    ]
+  }
+}

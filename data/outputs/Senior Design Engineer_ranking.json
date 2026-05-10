@@ -1,0 +1,235 @@
+{
+  "ranked_list": [
+    {
+      "candidate_id": "resume2.txt",
+      "final_score": 76.7,
+      "breakdown": {
+        "skill_score": 67.97,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 57.07
+      },
+      "rank": 1,
+      "status": "Shortlisted",
+      "normalized_score": 100.0,
+      "fair_score": 61.43,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (76.7) and fair score (61.43) differ by 15.3 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume5.txt",
+      "final_score": 76.0,
+      "breakdown": {
+        "skill_score": 65.5,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 57.58
+      },
+      "rank": 2,
+      "status": "Shortlisted",
+      "normalized_score": 94.35,
+      "fair_score": 60.75,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (76.0) and fair score (60.75) differ by 15.2 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume1.txt",
+      "final_score": 71.8,
+      "breakdown": {
+        "skill_score": 57.31,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 50.27
+      },
+      "rank": 3,
+      "status": "Review",
+      "normalized_score": 60.48,
+      "fair_score": 53.09,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (71.8) and fair score (53.09) differ by 18.7 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume3.txt",
+      "final_score": 69.2,
+      "breakdown": {
+        "skill_score": 53.33,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 44.94
+      },
+      "rank": 4,
+      "status": "Review",
+      "normalized_score": 39.52,
+      "fair_score": 48.3,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (69.2) and fair score (48.3) differ by 20.9 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume6.txt",
+      "final_score": 67.2,
+      "breakdown": {
+        "skill_score": 46.97,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 44.32
+      },
+      "rank": 5,
+      "status": "Review",
+      "normalized_score": 23.39,
+      "fair_score": 45.38,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (67.2) and fair score (45.38) differ by 21.8 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume4.txt",
+      "final_score": 64.3,
+      "breakdown": {
+        "skill_score": 44.44,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 35.82
+      },
+      "rank": 6,
+      "status": "Review",
+      "normalized_score": 0.0,
+      "fair_score": 39.27,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (64.3) and fair score (39.27) differ by 25.0 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    }
+  ],
+  "top_candidates": [
+    {
+      "candidate_id": "resume2.txt",
+      "final_score": 76.7,
+      "breakdown": {
+        "skill_score": 67.97,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 57.07
+      },
+      "rank": 1,
+      "status": "Shortlisted",
+      "normalized_score": 100.0,
+      "fair_score": 61.43,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (76.7) and fair score (61.43) differ by 15.3 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    },
+    {
+      "candidate_id": "resume5.txt",
+      "final_score": 76.0,
+      "breakdown": {
+        "skill_score": 65.5,
+        "experience_score": 100,
+        "education_score": 70,
+        "semantic_score": 57.58
+      },
+      "rank": 2,
+      "status": "Shortlisted",
+      "normalized_score": 94.35,
+      "fair_score": 60.75,
+      "bias_warnings": [
+        {
+          "type": "SCORE_DIVERGENCE",
+          "detail": "Final score (76.0) and fair score (60.75) differ by 15.2 \u2014 review scoring weights."
+        }
+      ],
+      "masked_profile": {
+        "name": "MASKED",
+        "gender": "MASKED",
+        "age": "MASKED",
+        "location": "MASKED"
+      }
+    }
+  ],
+  "recruiter_summary": {
+    "job_id": "Senior Design Engineer",
+    "summary": {
+      "total_candidates": 6,
+      "shortlisted": 2,
+      "review": 4,
+      "rejected": 0
+    },
+    "top_candidates": [
+      {
+        "candidate_id": "resume2.txt",
+        "score": 76.7,
+        "status": "Shortlisted"
+      },
+      {
+        "candidate_id": "resume5.txt",
+        "score": 76.0,
+        "status": "Shortlisted"
+      }
+    ]
+  }
+}

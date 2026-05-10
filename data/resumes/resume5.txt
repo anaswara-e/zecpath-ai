@@ -1,16 +1,92 @@
-Name: Kiran Kumar
-Email: kiran.kumar@gmail.com
+ARJUN MENON
+Bangalore, India
+Phone: +91-9876543210
+Email: arjun.menon@gmail.com
 
-Summary:
-Maintenance Engineer experienced in equipment troubleshooting and preventive maintenance.
+PROFESSIONAL SUMMARY
+Design Engineer with 5 years of experience in mechanical component and system design, CAD modeling, engineering calculations, and manufacturing support. Skilled in SolidWorks, CATIA, Creo, GD&T, and product development with strong understanding of manufacturing processes, material selection, and design optimization. Proven ability to deliver cost-effective and manufacturable engineering solutions.
 
-Skills:
-Maintenance, Troubleshooting, Mechanical Systems, Hydraulics, Pneumatics
+TECHNICAL SKILLS
+Mechanical Design
+SolidWorks
+CATIA
+Creo
+AutoCAD
+3D CAD Modeling
+Engineering Drawings
+GD&T
+Design Validation
+Material Selection
+DFMA
+Manufacturing Processes
+Engineering Calculations
+BOM Preparation
+Product Development
+Problem Solving
+Technical Documentation
 
-Experience:
-Maintenance Engineer at GHI Plant (2 years)
-- Handled machine breakdowns
-- Performed preventive maintenance
+PROFESSIONAL EXPERIENCE
 
-Education:
-Diploma in Mechanical Engineering
+Design Engineer
+TechNova Engineering Solutions
+Bangalore, India
+2019 - Present
+
+- Developed mechanical designs based on customer and project requirements
+- Created detailed 3D CAD models and engineering drawings using SolidWorks and CATIA
+- Performed engineering calculations, tolerance analysis, and material selection
+- Collaborated with manufacturing and quality teams to improve design feasibility
+- Conducted design validation and prototype testing activities
+- Managed design revisions and engineering documentation
+- Reduced manufacturing costs by 18% through design optimization initiatives
+- Ensured compliance with industry standards and safety regulations
+
+Product Design Engineer
+MechWorks Pvt Ltd
+Bangalore, India
+2017 - 2019
+
+- Designed mechanical components and consumer products
+- Supported prototyping and validation testing
+- Conducted material analysis and product optimization
+- Assisted in lifecycle management and documentation activities
+
+EDUCATION
+
+Bachelor of Technology in Mechanical Engineering
+National Institute of Technology Karnataka
+2013 - 2017
+
+CERTIFICATIONS
+
+Certified SolidWorks Professional CSWP
+Product Design and Development Certification
+Manufacturing Process Optimization Training
+
+PROJECTS
+
+Smart Industrial Tool Design
+- Designed ergonomic industrial tool improving operator usability and durability
+
+Lightweight Mechanical Assembly System
+- Reduced assembly weight by 22% using optimized material selection and DFMA
+
+ACHIEVEMENTS
+
+- Improved product development turnaround time by 15%
+- Recognized for innovative cost-saving mechanical design solutions
+
+TECHNICAL TOOLS
+
+SolidWorks
+CATIA
+Creo
+AutoCAD
+PLM Software
+MS Excel
+
+LANGUAGES
+
+English
+Hindi
+Malayalam

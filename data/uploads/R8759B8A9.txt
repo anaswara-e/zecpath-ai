@@ -1,0 +1,11 @@
+NAME: Arun Krishnan
+SKILLS
+python machine learning tensorflow data analysis iot predictive maintenance
+EXPERIENCE
+AI Engineer
+GE Digital India
+2020 - Present
+- Developed ML models for predictive maintenance
+EDUCATION
+Bachelor of Technology in Mechanical Engineering
+NIT Karnataka 2016-2020

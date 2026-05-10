@@ -1,20 +1,92 @@
-Name: Arjun Nair
-Email: arjun.nair@gmail.com
+ARJUN MENON
+Bangalore, India
+Phone: +91-9876543210
+Email: arjun.menon@gmail.com
+LinkedIn: linkedin.com/in/arjunmenon
 
-Summary:
-Recent Mechanical Engineering graduate with strong fundamentals in thermodynamics and design.
+PROFESSIONAL SUMMARY
+Graduate Mechanical Engineer with strong knowledge of mechanical engineering principles, CAD modeling, manufacturing processes, and engineering documentation. Skilled in SolidWorks, AutoCAD, technical drawings, and problem-solving. Passionate about product development, production support, and continuous improvement. Ability to collaborate with cross-functional teams and adapt quickly to new engineering environments.
 
-Skills:
-AutoCAD, SolidWorks, Thermodynamics, MATLAB, MS Excel
+CORE SKILLS
+Mechanical Engineering Principles
+CAD Modeling
+SolidWorks
+AutoCAD
+Engineering Drawings
+Manufacturing Processes
+Technical Documentation
+Product Development
+Problem Solving
+Team Collaboration
+Production Support
+Design Validation
+Material Selection
+Quality Control
+GD&T Basics
+Microsoft Excel
 
-Experience:
-Intern at ABC Manufacturing (3 months)
-- Assisted in production line analysis
-- Supported quality inspection
+PROFESSIONAL EXPERIENCE
 
-Education:
-B.Tech in Mechanical Engineering
-APJ Abdul Kalam Technological University
+Junior Mechanical Design Associate
+TechNova Engineering Solutions
+Bangalore, India
+2019 - Present
 
-Certifications:
-AutoCAD Certification
+- Assisted senior engineers in mechanical product design and development projects
+- Created 2D and 3D CAD models using SolidWorks and AutoCAD
+- Supported engineering drawing preparation and BOM documentation
+- Participated in prototype testing and validation activities
+- Coordinated with production and quality teams to improve manufacturability
+- Conducted basic feasibility analysis and material selection
+- Improved documentation accuracy and reduced design revision delays by 15%
+- Followed engineering standards, safety procedures, and quality guidelines
+
+Mechanical Engineering Intern
+MechWorks Pvt Ltd
+Bangalore, India
+2018 - 2019
+
+- Supported manufacturing and assembly operations
+- Assisted in CAD drafting and component modeling
+- Participated in troubleshooting mechanical issues on the shop floor
+- Collected engineering data and prepared technical reports
+- Worked with cross-functional teams on process improvement activities
+
+EDUCATION
+
+Bachelor of Technology in Mechanical Engineering
+National Institute of Technology Karnataka
+2013 - 2017
+
+CERTIFICATIONS
+
+Certified SolidWorks Associate
+AutoCAD Mechanical Design Certification
+Manufacturing Process Fundamentals
+
+PROJECTS
+
+Industrial Tool Redesign
+- Assisted in redesigning a handheld industrial tool improving durability and ergonomics
+
+Lightweight Fixture Development
+- Supported material optimization project reducing fixture weight by 18%
+
+ACHIEVEMENTS
+
+- Recognized for improving engineering documentation efficiency
+- Successfully supported multiple prototype validation activities
+
+TECHNICAL TOOLS
+
+SolidWorks
+AutoCAD
+CATIA
+MS Excel
+PLM Tools
+
+LANGUAGES
+
+English
+Hindi
+Malayalam
