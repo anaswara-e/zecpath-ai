@@ -1,4 +1,8 @@
-from ats_engine.skill_extractor import extract_skills_with_confidence
+from ats_engine.optimized_engine import fast_skill_extract_with_confidence
+from ats_engine.skill_extractor import (
+    extract_skills,
+    extract_skills_with_confidence
+)
 import json
 
 

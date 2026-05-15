@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 
 from parsers.resume_parser import extract_text
 from parsers.normalization import normalize_resume_text, normalize_jd_text
-from ats_engine.skill_extractor import extract_skills
+from ats_engine.optimized_engine import fast_skill_extract
 from ats_engine.experience_parser import extract_experience_blocks, calculate_total_experience
 from ats_engine.semantic_matcher import match_resume_to_jd
 from ats_engine.ats_scorer import generate_candidate_score
@@ -176,7 +176,7 @@ def parse_resume(req: ParseRequest):
     resume   = resume_store[req.resume_id]
     raw_text = extract_text(resume["file_path"])
     norm_text = normalize_resume_text(raw_text)
-    skills    = extract_skills(norm_text)
+    skills    = fast_skill_extract(norm_text)
     experience = extract_experience_blocks(norm_text)
     total_years = calculate_total_experience(experience)
 
@@ -211,7 +211,7 @@ def parse_resume(req: ParseRequest):
 def create_job(req: JobCreateRequest):
     job_id   = "J" + str(uuid.uuid4())[:8].upper()
     jd_text  = normalize_jd_text(f"{req.job_title} {req.required_skills}")
-    jd_skills = extract_skills(jd_text)
+    jd_skills = fast_skill_extract(jd_text)
 
     job_store[job_id] = {
         "job_id":          job_id,

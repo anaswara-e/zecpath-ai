@@ -55,7 +55,7 @@ DEGREE_REPLACEMENTS = {
 def normalize_resume_text(text):
     """
     Standardize raw resume text before passing to parsers.
-    Called by main.py before extract_skills() and extract_experience_blocks().
+    Called by main.py before fast_skill_extract() and extract_experience_blocks().
 
     Steps:
       1. Lowercase

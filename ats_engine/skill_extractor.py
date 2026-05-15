@@ -136,6 +136,26 @@ def extract_skills(text):
 
     return list(found_skills)
 
+# -------------------------------
+# Skill Extraction with Confidence
+# -------------------------------
+
+def extract_skills_with_confidence(text):
+    """
+    Extract skills with confidence scores
+    """
+
+    skills = extract_skills(text)
+
+    result = []
+
+    for skill in skills:
+        result.append({
+            "skill": skill,
+            "confidence": 0.95
+        })
+
+    return result
 
 # -------------------------------
 # Confidence Score

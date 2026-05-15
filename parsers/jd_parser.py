@@ -1,5 +1,5 @@
 import re
-
+from ats_engine.optimized_engine import clean_text_cached
 # Mechanical Engineering Skills Database
 SKILLS_DB = [
     "autocad", "solidworks", "catia",
@@ -36,7 +36,7 @@ def extract_role(text):
 
 
 # Extract skills
-def extract_skills(text):
+def fast_skill_extract(text):
     found_skills = []
 
     for skill in SKILLS_DB:
@@ -76,7 +76,7 @@ def parse_jd(text):
 
     result = {
         "role": extract_role(text),
-        "skills": extract_skills(text),
+        "skills": fast_skill_extract(text),
         "experience": extract_experience(text),
         "education": extract_education(text)
     }

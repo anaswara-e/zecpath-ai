@@ -1,5 +1,5 @@
 import re
-
+from ats_engine.optimized_engine import clean_text_cached
 DEGREE_MAP = {
     "btech": "B.Tech",
     "b.tech": "B.Tech",

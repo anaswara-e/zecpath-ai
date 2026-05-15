@@ -1,26 +1,6 @@
 [
     {
-        "skill": "quality",
-        "confidence": 0.9
-    },
-    {
-        "skill": "cad",
-        "confidence": 0.9
-    },
-    {
-        "skill": "catia",
-        "confidence": 0.7
-    },
-    {
-        "skill": "production",
-        "confidence": 0.9
-    },
-    {
-        "skill": "manufacturing",
-        "confidence": 0.9
-    },
-    {
-        "skill": "bom",
+        "skill": "testing",
         "confidence": 0.7
     },
     {
@@ -28,27 +8,35 @@
         "confidence": 0.8
     },
     {
-        "skill": "teamwork",
+        "skill": "product_design",
         "confidence": 0.7
     },
     {
-        "skill": "material_selection",
-        "confidence": 0.8
-    },
-    {
-        "skill": "testing",
+        "skill": "catia",
         "confidence": 0.7
     },
     {
-        "skill": "validation",
-        "confidence": 0.9
+        "skill": "bom",
+        "confidence": 0.7
     },
     {
         "skill": "gdandt",
         "confidence": 0.7
     },
     {
-        "skill": "documentation",
+        "skill": "manufacturing",
+        "confidence": 0.9
+    },
+    {
+        "skill": "teamwork",
+        "confidence": 0.7
+    },
+    {
+        "skill": "cad",
+        "confidence": 0.9
+    },
+    {
+        "skill": "production",
         "confidence": 0.9
     },
     {
@@ -56,19 +44,31 @@
         "confidence": 0.7
     },
     {
+        "skill": "material_selection",
+        "confidence": 0.8
+    },
+    {
         "skill": "autocad",
         "confidence": 0.9
     },
     {
-        "skill": "product_design",
+        "skill": "quality",
+        "confidence": 0.9
+    },
+    {
+        "skill": "plm",
         "confidence": 0.7
+    },
+    {
+        "skill": "documentation",
+        "confidence": 0.9
     },
     {
         "skill": "solidworks",
         "confidence": 0.9
     },
     {
-        "skill": "plm",
-        "confidence": 0.7
+        "skill": "validation",
+        "confidence": 0.9
     }
 ]

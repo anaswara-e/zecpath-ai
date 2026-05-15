@@ -6,7 +6,7 @@ import json
 
 from parsers.resume_parser        import extract_text
 from parsers.normalization        import normalize_resume_text, normalize_jd_text   # Day 15
-from ats_engine.skill_extractor   import extract_skills
+from ats_engine.optimized_engine import fast_skill_extract
 from ats_engine.experience_parser import extract_experience_blocks, calculate_total_experience
 from ats_engine.semantic_matcher  import match_resume_to_jd
 from ats_engine.ats_scorer        import generate_candidate_score
@@ -50,7 +50,7 @@ for resume_file in os.listdir(resume_folder):
     # Day 15 — normalize before extracting skills/experience
     norm_text     = normalize_resume_text(raw_text)
 
-    resume_skills = extract_skills(norm_text)
+    resume_skills = fast_skill_extract(norm_text)
     resume_exp    = extract_experience_blocks(norm_text)
     total_years   = calculate_total_experience(resume_exp)
 
@@ -77,7 +77,7 @@ for jd_file in os.listdir(jd_folder):
 
     # Day 15 — normalize JD text too
     jd_text   = normalize_jd_text(raw_jd)
-    jd_skills = extract_skills(jd_text)
+    jd_skills = fast_skill_extract(jd_text)
     jd = {
         "job_title":            jd_file.replace(".txt", ""),
         "required_skills":      jd_skills,

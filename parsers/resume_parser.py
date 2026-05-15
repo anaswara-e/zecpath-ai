@@ -1,6 +1,6 @@
 import os
 import re
-
+from ats_engine.optimized_engine import clean_text_cached
 try:
     import docx
 except:
